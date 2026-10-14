@@ -1,0 +1,21 @@
+notification_id,user_id,message,read,timestamp,title,priority,from_user,to_user,url,high_priority,category,retry_count,status,source,destination,metadata,schedule_time,updated_at,location,department,read_count,importance,flagged,permissions
+1,45,Message 1,True,6/17/23 15:32,Title 1,2,User_12,User_78,,False,Category 3,Status 4,Source 7,Destination 9,{},False,False,New York,HR,5,High,False,,"[camera, microphone, speaker]"
+2,23,Message 2,False,6/17/23 15:32,Title 2,4,User_34,User_99,,False,Category 7,Status 2,Source 1,Destination 4,{},False,False,Los Angeles,Finance,3,Medium,True,,"[microphone, speaker]"
+3,67,Message 3,True,6/17/23 15:32,Title 3,1,User_45,User_55,,False,Category 1,Status 1,Source 3,Destination 2,{},False,False,Chicago,IT,7,Low,False,,[camera]
+4,89,Message 4,False,6/17/23 15:32,Title 4,3,User_23,User_61,,False,Category 5,Status 3,Source 5,Destination 6,{},False,False,Houston,Marketing,2,High,True,,
+5,12,Message 5,True,6/17/23 15:32,Title 5,5,User_11,User_88,,False,Category 9,Status 5,Source 9,Destination 8,{},False,False,Phoenix,Sales,8,Medium,False,,[microphone]
+6,34,Message 6,False,6/17/23 15:32,Title 6,2,User_22,User_77,,False,Category 2,Status 4,Source 2,Destination 3,{},False,False,Philadelphia,HR,4,Low,True,,[speaker]
+7,56,Message 7,True,6/17/23 15:32,Title 7,4,User_33,User_66,,False,Category 4,Status 2,Source 4,Destination 1,{},False,False,San Antonio,Finance,6,High,False,,[microphone]
+8,78,Message 8,False,6/17/23 15:32,Title 8,1,User_44,User_99,,False,Category 6,Status 1,Source 6,Destination 5,{},False,False,San Diego,IT,1,Medium,True,,[camera]
+9,90,Message 9,True,6/17/23 15:32,Title 9,3,User_55,User_88,,False,Category 8,Status 3,Source 8,Destination 7,{},False,False,Dallas,Marketing,9,Low,False,,
+10,11,Message 10,False,6/17/23 15:32,Title 10,5,User_66,User_77,,False,Category 10,Status 5,Source 10,Destination 10,{},False,False,San Jose,Sales,10,High,True,,
+11,22,Message 11,True,6/17/23 15:32,Title 11,2,User_77,User_55,,False,Category 3,Status 4,Source 7,Destination 9,{},False,False,Austin,HR,5,Medium,False,,
+12,33,Message 12,False,6/17/23 15:32,Title 12,4,User_88,User_66,,False,Category 7,Status 2,Source 1,Destination 4,{},False,False,Jacksonville,Finance,3,Low,True,,
+13,44,Message 13,True,6/17/23 15:32,Title 13,1,User_99,User_33,,False,Category 1,Status 1,Source 3,Destination 2,{},False,False,Fort Worth,IT,7,High,False,,
+14,55,Message 14,False,6/17/23 15:32,Title 14,3,User_11,User_22,,False,Category 5,Status 3,Source 5,Destination 6,{},False,False,Columbus,Marketing,2,Medium,True,,"[microphone, speaker, camera]"
+15,66,Message 15,True,6/17/23 15:32,Title 15,5,User_22,User_44,,False,Category 9,Status 5,Source 9,Destination 8,{},False,False,Charlotte,Sales,8,Low,False,,"[camera, microphone, speaker]"
+16,77,Message 16,False,6/17/23 15:32,Title 16,2,User_33,User_11,,False,Category 2,Status 4,Source 2,Destination 3,{},False,False,San Francisco,HR,4,High,True,,
+17,88,Message 17,True,6/17/23 15:32,Title 17,4,User_44,User_22,,False,Category 4,Status 2,Source 4,Destination 1,{},False,False,Indianapolis,Finance,6,Medium,False,,
+18,99,Message 18,False,6/17/23 15:32,Title 18,1,User_55,User_33,,False,Category 6,Status 1,Source 6,Destination 5,{},False,False,Seattle,IT,1,Low,True,,
+19,10,Message 19,True,6/17/23 15:32,Title 19,3,User_66,User_44,,False,Category 8,Status 3,Source 8,Destination 7,{},False,False,Denver,Marketing,9,High,False,,
+20,21,Message 20,False,6/17/23 15:32,Title 20,5,User_77,User_55,,False,Category 10,Status 5,Source 10,Destination 10,{},False,False,Washington,Sales,10,Medium,True,,[camera]

@@ -1,0 +1,15 @@
+{
+  "id": "clinical/e8",
+  "model": "../../../models/mom_pydantic_tumor_patient.py",
+  "target_classes": [
+    "Patient",
+    "Tumor"
+  ],
+  "inputs": [
+    "inputs/e8_patient_tumor_data.csv"
+  ],
+  "expected": [
+    "expected/Patient.csv",
+    "expected/Tumor.csv"
+  ]
+}

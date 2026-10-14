@@ -1,0 +1,12 @@
+{
+  "id": "benchmark/notification_25attr_29cols",
+  "model": "../../../models/100_models_pydantic.v1.py",
+  "target_classes": [
+    "Notification"
+  ],
+  "inputs": [
+    "inputs/test_Notification_25attr_29cols_20rows_1.csv"
+  ],
+  "expected": [],
+  "notes": "Uploaded twice under the names ..._20cols_... and ..._25cols_... with identical bytes; the file has 29 columns."
+}

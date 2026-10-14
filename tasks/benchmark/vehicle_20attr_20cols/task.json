@@ -1,0 +1,13 @@
+{
+  "id": "benchmark/vehicle_20attr_20cols",
+  "model": "../../../models/100_models_pydantic.v1.py",
+  "target_classes": [
+    "Vehicle"
+  ],
+  "inputs": [
+    "inputs/test_Vehicle_20attr_20cols_20rows_1.csv"
+  ],
+  "expected": [
+    "expected/Vehicle.csv"
+  ]
+}

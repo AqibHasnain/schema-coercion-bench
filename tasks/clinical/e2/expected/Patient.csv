@@ -1,0 +1,6 @@
+,age,ethnicity,weight_kg,last_appointment_date,active,ID,name
+0,45,"['asian', 'caucasian']",70.5,2024-10-05,True,P001,John Doe
+1,50,"[""'hispanic or latino'""]",80.0,2024-05-06,,P002,Jane Smith
+2,60,['caucasian'],74.84268,2023-01-04,,P003,Alice Brown
+3,35,['asian'],86.18248,2022-01-05,,P004,Bob Johnson
+4,40,"[""'black/african american'"", ""'asian'""]",55.0,2022-04-05,True,P005,Carol White

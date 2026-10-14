@@ -1,0 +1,14 @@
+{
+  "id": "experiment/mom7",
+  "model": "../../../models/mom7_pydantic_experiment.py",
+  "target_classes": [
+    "Experiment"
+  ],
+  "inputs": [
+    "inputs/mom7_experiment_data1.csv",
+    "inputs/mom7_experiment_data2.csv"
+  ],
+  "expected": [
+    "expected/Experiment.csv"
+  ]
+}

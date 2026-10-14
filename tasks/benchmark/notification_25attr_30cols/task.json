@@ -1,0 +1,13 @@
+{
+  "id": "benchmark/notification_25attr_30cols",
+  "model": "../../../models/100_models_pydantic.v2.py",
+  "target_classes": [
+    "Notification"
+  ],
+  "inputs": [
+    "inputs/test_Notification_25attr_30cols_20rows_1.csv"
+  ],
+  "expected": [
+    "expected/Notification.csv"
+  ]
+}

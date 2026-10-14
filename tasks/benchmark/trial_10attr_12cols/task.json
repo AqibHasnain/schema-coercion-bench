@@ -1,0 +1,13 @@
+{
+  "id": "benchmark/trial_10attr_12cols",
+  "model": "../../../models/9_biological_models.v1.py",
+  "target_classes": [
+    "Trial"
+  ],
+  "inputs": [
+    "inputs/test_Trial_10attr_12cols_20rows_1.csv"
+  ],
+  "expected": [
+    "expected/Trial.csv"
+  ]
+}

@@ -1,0 +1,6 @@
+﻿ID,name,age,weight_kg,active,last_appointment_date,ethnicity
+P001,John Doe,45,70.5,True,10/5/24,"[""asian"", ""caucasian""]"
+P002,Jane Smith,50,80,None,5/6/24,"[""hispanic or latino""]"
+P003,Alice Brown,60,74.8427,None,1/4/23,"[""caucasian""]"
+P004,Bob Johnson,35,86.1826,None,1/5/22,"[""asian""]"
+P005,Carol White,40,55,True,4/5/22,"[""black/african american"", ""asian""]"

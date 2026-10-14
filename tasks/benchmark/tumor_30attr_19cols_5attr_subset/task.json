@@ -1,0 +1,14 @@
+{
+  "id": "benchmark/tumor_30attr_19cols_5attr_subset",
+  "model": "../../../models/5_attributes_extraction.py",
+  "target_classes": [
+    "Tumor"
+  ],
+  "inputs": [
+    "inputs/test_Tumor_30attrs_19cols_20rows_1.csv"
+  ],
+  "expected": [
+    "expected/Tumor.csv"
+  ],
+  "notes": "Model keeps only 6 Tumor fields; the reference is the full Tumor table, so score only the model's fields."
+}

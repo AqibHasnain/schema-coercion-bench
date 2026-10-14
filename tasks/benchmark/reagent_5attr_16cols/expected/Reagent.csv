@@ -1,0 +1,44 @@
+reagent_name,molecular_formula,physical_state,date_of_manufacture,expiration_date,mithrl_report
+Barium Chloride,BaCl2,Solid,2021-04-12 00:00:00,2026-04-12 00:00:00,"1. manufacture_date converted from '4/12/21' to '2021-04-12' for consistency.
+2. expiry_date converted from '4/12/26' to '2026-04-12' for consistency."
+Isopropanol,C3H8O,Liquid,2022-02-01 00:00:00,2024-02-01 00:00:00,"1. manufacture_date changed to '2022-02-01 00:00:00' from '2/1/22 0:00' to match the required date-time format.
+2. expiry_date changed to '2024-02-01 00:00:00' from '2/1/24 0:00' to match the required date-time format."
+Sucrose,,Solid,2020-05-15 00:00:00,2025-05-15 00:00:00,"1. 'formula' is 'nan', which is not a valid molecular formula, so set to None.
+2. 'manufacture_date' and 'expiry_date' converted from 'MM-DD-YYYY' to 'YYYY-MM-DD hh:mm:ss' format."
+Phosphoric Acid,H3PO4,Liquid,2023-01-10 00:00:00,2025-01-10 00:00:00,"1. manufacture_date '1/10/23' converted to '2023-01-10 00:00:00' for standard date-time format.
+2. expiry_date '1/10/25' converted to '2025-01-10 00:00:00' for standard date-time format."
+table,,,,,"1. molecular_formula is set to None because the input value is 'nan'.
+2. physical_state is set to None because the input value is 'nan'.
+3. date_of_manufacture is set to None because the input value is 'nan'.
+4. expiration_date is set to None because the input value is 'nan'."
+Acetone,C3H6O,Liquid,2021-08-18 00:00:00,2023-08-18 00:00:00,"1. manufacture_date was converted from '8/18/21' to '2021-08-18 00:00:00' to match the required date-time format.
+2. expiry_date was converted from '8/18/23' to '2023-08-18 00:00:00' to match the required date-time format."
+Methanol,CH3OH,Liquid,2022-05-14 00:00:00,2024-05-14 00:00:00,"1. 'manufacture_date' was converted from '5/14/22 0:00' to '2022-05-14 00:00:00' to match the required date-time format.
+2. 'expiry_date' was converted from '5/14/24 0:00' to '2024-05-14 00:00:00' to match the required date-time format."
+Sulfuric Acid,H2SO4,Liquid,2020-12-11 00:00:00,2023-12-11 00:00:00,"1. 'manufacture_date' converted from '12/11/20' to '2020-12-11 00:00:00' to match the required format.
+2. 'expiry_date' converted from '12/11/23' to '2023-12-11 00:00:00' to match the required format."
+Potassium Hydroxide,KOH,Solid,2021-07-20 00:00:00,2024-07-20 00:00:00,"1. 'manufacture_date' was converted from '7/20/21' to '2021-07-20 00:00:00'.
+2. 'expiry_date' was converted from '7/20/24' to '2024-07-20 00:00:00'.
+3. 'phase' was used as 'physical_state' and matched to 'Solid'."
+Ammonium Nitrate,,Solid,2022-06-30 00:00:00,2024-06-30 00:00:00,"1. 'formula' is 'nan', which is not a valid molecular formula, hence set to 'None'.
+2. 'manufacture_date' and 'expiry_date' were converted from 'MM-DD-YYYY' to 'YYYY-MM-DD hh:mm:ss' format."
+Calcium Sulfate,CaSO4,Solid,2020-10-05 00:00:00,2025-10-05 00:00:00,"1. manufacture_date was converted from '10/5/20' to '2020-10-05 00:00:00' for standard date-time format.
+2. expiry_date was converted from '10/5/25' to '2025-10-05 00:00:00' for standard date-time format."
+Toluene,C7H8,Liquid,2021-09-14 00:00:00,2023-09-01 00:00:00,"1. 'manufacture_date' was converted from '9/14/21' to '2021-09-14 00:00:00' to follow the required date-time format.
+2. 'expiry_date' was converted from '2023-09' to '2023-09-01 00:00:00' to follow the required date-time format."
+Nitrous Acid,HNO2,Liquid,2022-07-10 00:00:00,2024-07-10 00:00:00,"1. manufacture_date was converted from '7/10/22 0:00' to '2022-07-10 00:00:00' to match the required date-time format.
+2. expiry_date was converted from '7/10/24 0:00' to '2024-07-10 00:00:00' to match the required date-time format."
+Magnesium Chloride,,Solid,2020-11-11 00:00:00,2025-11-11 00:00:00,"1. 'formula' is 'nan' which is not a valid molecular formula, so it is set to 'None'.
+2. 'manufacture_date' and 'expiry_date' are converted from 'MM/DD/YY' to 'YYYY-MM-DD hh:mm:ss' format."
+Formaldehyde,CH2O,Gas,2021-12-05 00:00:00,2023-12-05 00:00:00,"1. manufacture_date was converted from '12/5/21' to '2021-12-05 00:00:00'.
+2. expiry_date was converted from '12/5/23' to '2023-12-05 00:00:00'."
+Hydrochloric Acid,HCl,Liquid,2022-08-25 00:00:00,2024-08-25 00:00:00,"1. manufacture_date converted from '8/25/22 0:00' to '2022-08-25 00:00:00' to match the required format.
+2. expiry_date converted from '8/25/24 0:00' to '2024-08-25 00:00:00' to match the required format."
+Sodium Carbonate,Na2CO3,Solid,2020-06-01 00:00:00,,"1. 'manufacture_date' was converted from '6/1/20' to '2020-06-01 00:00:00' to match the required date-time format.
+2. 'expiry_date' was set to 'None' because the input value was 'nan'."
+Benzene,C6H6,Liquid,2021-07-15 00:00:00,2023-07-15 00:00:00,"1. 'manufacture_date' converted from '7/15/21' to '2021-07-15' to match the required date format.
+2. 'expiry_date' converted from '7/15/23' to '2023-07-15' to match the required date format."
+Hydrogen Peroxide,H2O2,Liquid,2022-09-20 00:00:00,2024-09-20 00:00:00,"1. manufacture_date was converted from '9/20/22 0:00' to '2022-09-20 00:00:00' to match the required date-time format.
+2. expiry_date was converted from '9/20/24 0:00' to '2024-09-20 00:00:00' to match the required date-time format."
+Magnesium Hydroxide,,Solid,2020-05-10 00:00:00,2025-05-10 00:00:00,"1. 'formula' is 'nan', which is not a valid molecular formula, so 'molecular_formula' is set to None.
+2. 'manufacture_date' and 'expiry_date' have been converted to the required date-time format YYYY-MM-DD hh:mm:ss."

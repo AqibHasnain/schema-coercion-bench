@@ -1,0 +1,6 @@
+Appointment_ID,patient,next_appointment_date,last_follow_up_datetime
+A001,1,7/19/24,4/19/24 12:29 AM
+A002,2,8/18/24,1/10/23 12:29 AM
+A003,3,9/17/24,1/1/23 12:29 AM
+A004,4,10/17/24,1/2/22 12:29 AM
+A005,5,11/16/24,1/10/21 12:29 AM

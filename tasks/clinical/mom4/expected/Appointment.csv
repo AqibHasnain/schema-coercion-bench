@@ -1,0 +1,6 @@
+,last_follow_up_datetime,next_appointment_date,Appointment_ID,refAttr_patient_Patient_ID,refAttr_patient_Patient_name,patient_Patient_mithrlRecord
+0,,2024-07-19,A001,P001,John Doe,"Reference attribute `patient` matched to row `4` in the `Patient` table using column(s) `ID, name`."
+1,,2024-08-18,A002,P002,Jane Smith,"Reference attribute `patient` matched to row `1` in the `Patient` table using column(s) `ID, name`."
+2,,2024-09-17,A003,P003,Alice Brown,"Reference attribute `patient` matched to row `2` in the `Patient` table using column(s) `ID, name`."
+3,,2024-10-17,A004,P004,Bob Johnson,"Reference attribute `patient` matched to row `3` in the `Patient` table using column(s) `ID, name`."
+4,,2024-11-16,A005,P005,Carol,

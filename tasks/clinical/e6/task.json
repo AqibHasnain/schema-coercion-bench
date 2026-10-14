@@ -1,0 +1,16 @@
+{
+  "id": "clinical/e6",
+  "model": "../../../models/mom_pydantic_tumor_patient.py",
+  "target_classes": [
+    "Patient"
+  ],
+  "inputs": [
+    "inputs/e6_patient_data.csv",
+    "inputs/e6_patient_data_2.csv"
+  ],
+  "expected": [
+    "expected/Patient.possibility1.xlsx",
+    "expected/Patient.possibility2.xlsx"
+  ],
+  "notes": "Second input is transposed. Two reference outputs; either is a correct answer."
+}

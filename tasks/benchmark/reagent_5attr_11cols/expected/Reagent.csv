@@ -1,0 +1,35 @@
+reagent_name,molecular_formula,physical_state,date_of_manufacture,expiration_date,mithrl_report
+Sodium Chloride,NaCl,Solid,2021-05-15 00:00:00,2026-05-15 00:00:00,"1. 'formula' matched to 'molecular_formula' as they are synonymous.
+2. 'state' matched to 'physical_state' directly.
+3. 'manufacture_date' and 'expiry_date' converted to required date-time format."
+Ethanol,C2H6O,,2022-01-01 00:00:00,2024-01-01 00:00:00,"1. 'state' is 'nan', so 'physical_state' is set to None."
+Glucose,C6H12O6,,2020-03-20 00:00:00,2025-03-20 00:00:00,"1. 'state' value is 'nan', which is not a valid physical state. Therefore, 'physical_state' is set to None."
+Hydrochloric Acid,HCl,,2023-02-01 00:00:00,2025-02-01 00:00:00,"1. 'state' is 'nan', which is not a valid physical state. Therefore, 'physical_state' is set to None."
+None,None,None,None,None,"1. 'reagent_name' changed to 'None' because 'computer' is not a valid reagent.
+2. 'molecular_formula' set to 'None' due to missing or invalid value 'nan'.
+3. 'physical_state' set to 'None' due to missing or invalid value 'nan'.
+4. 'date_of_manufacture' set to 'None' due to missing or invalid value 'nan'.
+5. 'expiration_date' set to 'None' due to missing or invalid value 'nan'."
+Methanol,CH4O,,2022-02-15 00:00:00,2024-02-15 00:00:00,
+Sulfuric Acid,H2SO4,Liquid,2020-11-05 00:00:00,2023-11-05 00:00:00,"1. 'state' value is 'nan', hence 'physical_state' is set to None."
+Sodium Hydroxide,NaOH,Solid,2021-09-25 00:00:00,2024-09-25 00:00:00,"1. 'weight_value', 'weight_unit', 'weight_val', 'weight_un', and 'conditions' were ignored as they are not required.
+2. 'impurities(%)' was ignored as it is not required.
+3. 'manufacture_date' and 'expiry_date' were converted to the required date-time format."
+Ammonia,NH3,,2022-03-30 00:00:00,2024-03-30 00:00:00,
+Calcium Carbonate,CaCO3,Solid,2020-12-12 00:00:00,2025-12-12 00:00:00,"1. 'state' value is 'nan', which is not a valid physical state. Therefore, 'physical_state' is set to None."
+Benzene,C6H6,Liquid,2021-08-20 00:00:00,2023-08-01 00:00:00,
+Nitric Acid,HNO3,,2022-04-10 00:00:00,2024-04-10 00:00:00,"1. The manufacture_date '2021-08-20' was converted to '2021-08-20 00:00:00' to match the required date-time format.
+2. The expiry_date '2023-08' was converted to '2023-08-01 00:00:00' assuming the first day of the month to match the required date-time format."
+Potassium Chloride,KCl,Solid,2020-10-15 00:00:00,2025-10-15 00:00:00,"1. 'state' value is 'nan', which is not a valid physical state. Set to 'None'."
+Formaldehyde,CH2O,Gas,2021-06-05 00:00:00,2023-06-05 00:00:00,"1. 'weight_value', 'weight_unit', 'weight_val', 'weight_un', 'conditions' were ignored as they are not required attributes.
+2. 'impurities(%)' was ignored as it is not a required attribute.
+3. 'manufacture_date' was converted to 'date_of_manufacture' in the format YYYY-MM-DD hh:mm:ss.
+4. 'expiry_date' was converted to 'expiration_date' in the format YYYY-MM-DD hh:mm:ss."
+Phosphoric Acid,H3PO4,,2022-05-25 00:00:00,2024-05-25 00:00:00,None
+Sodium Bicarbonate,NaHCO3,Solid,2020-09-01 00:00:00,2025-11-01 00:00:00,"1. 'state' is 'nan', which is not a valid physical state, so 'physical_state' is set to None."
+Acetone,C3H6O,Liquid,2021-11-15 00:00:00,2023-11-15 00:00:00,"1. 'weight_value', 'weight_unit', 'weight_val', 'weight_un', 'conditions' were ignored as they are not required attributes.
+2. 'impurities(%)' was ignored as it is not a required attribute.
+3. 'manufacture_date' was converted to '2020-09-01 00:00:00' to match the required date-time format.
+4. 'expiry_date' was converted to '2025-11-01 00:00:00' to match the required date-time format."
+Hydrogen Peroxide,H2O2,,2022-06-20 00:00:00,2024-06-20 00:00:00,No significant changes made. All values are directly extracted from the input_record.
+Magnesium Sulfate,MgSO4,Solid,2020-08-10 00:00:00,2025-08-10 00:00:00,"1. 'state' is 'nan', thus 'physical_state' is set to None."

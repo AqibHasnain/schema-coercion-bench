@@ -1,0 +1,22 @@
+{
+  "id": "clinical/e2",
+  "model": "../../../models/mom_pydantic_tumor_patient.py",
+  "target_classes": [
+    "Patient",
+    "Tumor",
+    "Treatment",
+    "Appointment"
+  ],
+  "inputs": [
+    "inputs/e2_patient_data.csv",
+    "inputs/e2_tumor_data.csv",
+    "inputs/e2_treatment_data.csv",
+    "inputs/e2_appointment_data.csv"
+  ],
+  "expected": [
+    "expected/Patient.csv",
+    "expected/Tumor.csv",
+    "expected/Treatment.csv",
+    "expected/Appointment.csv"
+  ]
+}

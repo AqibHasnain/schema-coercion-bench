@@ -1,0 +1,5 @@
+Species,Sex,Strain,Age,Age_Unit,Line,Genotype,Phenotype,Birth_Date,Death_Date,Health_Status,Comorbidities,Diet,Randomized___Unrandomized,Masking_ID,Physical_Tag,Parent_Material_ID_s_,Mother_Lineage,Father_Lineage,Owner_User,System,System_id,organism_id,Tail_Tag_Date,Mature_Date,Litter_SID,Mouseline,Notes
+Mus musculus,Male,black6,6,months,None,None,None,1/1/20,6/1/30,healthy,None,sugar,None,None,None,None,None,None,None,None,None,organism 1,7/7/27,2/1/20,None,None,very good mouse. The graudation date is 6-10-2024.
+Mus musculus,Female,black6,6,months,None,None,None,1/1/20,6/1/30,unhealthy,None,sugar,None,None,None,None,None,None,None,None,None,organism 2,7/7/27,3/1/20,None,None,pretty good mouse. The graudation date is 6-10-2024.
+Homo sapiens,Male,None,6,months,None,None,None,1/1/20,None,cancer,None,sugar,None,None,None,None,None,None,None,None,None,organism 3,7/7/27,4/1/20,None,None,pretty good human. The graudation date is 6-10-2024.
+Homo sapiens,Female,None,12,months,None,None,None,1/1/20,None,healthy,None,coffee,None,None,None,None,None,None,None,None,None,organism 4,7/7/27,5/1/20,None,None,very good mouse. The graudation date is 6-10-2024.

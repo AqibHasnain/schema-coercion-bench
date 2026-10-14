@@ -1,0 +1,21 @@
+﻿Appointment_ID,patient,next_appointment_date,last_follow_up_datetime,no_show,appt_set_type,doctor_id,dept,visit_reason,treat_plan,treat_notes,prescription,follow up,appt status,check in time,check out time,appt duration,bill amnt,insurance,paid_status,feedback
+A001,"John Doe, human, male",7/19/24,4/19/24 0:29,TRUE,web,D001,onco,unclear,Plan_4,Notes_5,Med D,No,Pending,17:26,17:52,35,828.41,Provider A,Paid,Poor
+A002,"female, Jane Smith, human",8/18/24,1/10/23 0:29,FALSE,web,D0011,onco,fever,Plan_8,Notes_6,Med A,Yes,Pending,2:46,23:30,36,727.17,Provider B,Partially Paid,Poor
+A003,"Alice Brown, P003, human",9/17/24,1/1/23 0:29,FALSE,phone,D011,rad,nausea,Plan_2,Notes_6,Med B,No,Pending,16:00,7:20,51,132.37,Provider A,Unpaid,Good
+A004,"Bob Johnson, P004, human",10/17/24,1/2/22 0:29,FALSE,phone,D0001,rad,vomit,Plan_6,Notes_5,Med C,Yes,Completed,23:15,23:07,51,137.24,Provider B,Unpaid,Average
+A005,"Carol, P005, human",11/16/24,1/10/21 0:29,FALSE,phone,D02,rad,vomit,Plan_8,Notes_1,Med B,Yes,Completed,12:03,8:43,24,135.63,Provider B,Paid,Poor
+A006,"Patient_011, P011, human",9/13/23,6/3/22 0:29,TRUE,web,D0033,cardio,pain,Plan_8,Notes_7,Med C,No,Pending,8:30,15:54,50,164.57,Provider A,Paid,Average
+A007,"Patient_007, P007, ",12/29/24,9/21/23 0:29,FALSE,phone,D0005,cardio,checkup,Plan_1,Notes_9,Med A,No,Pending,5:32,20:55,40,250.89,Provider A,Paid,Good
+A008,"Patient_008, P008",7/6/24,5/8/23 0:29,FALSE,in-person,D0039,rad,checkup,Plan_6,Notes_8,Med D,Yes,Cancelled,20:04,10:37,31,429.99,Provider C,Unpaid,Good
+A009,"Patient_009, P009",1/12/23,10/18/23 0:29,TRUE,phone,D0049,onco,follow-up,Plan_7,Notes_8,None,No,Completed,8:01,10:52,16,822.08,Provider B,Paid,Poor
+A010,"Patient_010, P010",12/18/24,10/11/22 0:29,FALSE,in-person,D0039,neuro,follow-up,Plan_10,Notes_5,Med B,Yes,Pending,6:57,16:49,49,108.42,Provider C,Paid,Poor
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,11 @@
+,appointment_duration,bill_amount,insurance_coverage,next_appointment_date,last_follow_up_datetime,no_show,Appointment_ID,appoint_made_type,doctor_id,department,reason_for_visit,treatment_plan,treatment_notes,prescription,follow_up_instructions,appointment_status,check_in_time,check_out_time,payment_status,feedback,refAttr_patient_Patient_name,patient_Patient_mithrlRecord
+0,35,828.41,Provider A,7/19/24,4/19/24 0:29,TRUE,A001,web,D001,onco,unclear,Plan_4,Notes_5,Med D,No,Pending,17:26,17:52,Paid,Poor,John Doe,Reference attribute `patient` matched to row `4` in the `Patient` table using column(s) `name`.
+1,36,727.17,Provider B,8/18/24,1/10/23 0:29,FALSE,A002,web,D0011,onco,fever,Plan_8,Notes_6,Med A,Yes,Pending,2:46,23:30,Partially Paid,Poor,Jane Smith,Reference attribute `patient` matched to row `1` in the `Patient` table using column(s) `name`.
+2,51,132.37,Provider A,9/17/24,1/1/23 0:29,FALSE,A003,phone,D011,rad,nausea,Plan_2,Notes_6,Med B,No,Pending,16:00,7:20,Unpaid,Good,Alice Brown,Reference attribute `patient` matched to row `2` in the `Patient` table using column(s) `name`.
+3,51,137.24,Provider B,10/17/24,1/2/22 0:29,FALSE,A004,phone,D0001,radiology,vomiting,Plan_6,Notes_5,Med C,Yes,Completed,23:15,23:07,Unpaid,Average,Bob Johnson,Reference attribute `patient` matched to row `3` in the `Patient` table using column(s) `name`.
+4,24,135.63,Provider B,11/16/24,1/10/21 0:29,FALSE,A005,phone,D02,rad,vomit,Plan_8,Notes_1,Med B,Yes,Completed,12:03,8:43,Paid,Poor,Carol,
+5,50,164.57,Provider A,9/13/23,6/3/22 0:29,TRUE,A006,web,D0033,cardio,pain,Plan_8,Notes_7,Med C,No,Pending,8:30,15:54,Paid,Average,Patient_011,Reference attribute `patient` matched to row `10` in the `Patient` table using column(s) `name`.
+6,40,250.89,Provider A,12/29/24,9/21/23 0:29,FALSE,A007,phone,D0005,cardio,checkup,Plan_1,Notes_9,Med A,No,Pending,5:32,20:55,Paid,Good,Patient_007,
+7,31,429.99,Provider C,7/6/24,5/8/23 0:29,FALSE,A008,in-person,D0039,rad,checkup,Plan_6,Notes_8,Med D,Yes,Cancelled,20:04,10:37,Unpaid,Good,Patient_008,
+8,16,822.08,Provider B,1/12/23,10/18/23 0:29,TRUE,A009,phone,D0049,onco,follow-up,Plan_7,Notes_8,None,No,Completed,8:01,10:52,Paid,Poor,Patient_009,
+9,49,108.42,Provider C,12/18/24,10/11/22 0:29,FALSE,A010,in-person,D0039,neuro,follow-up,Plan_10,Notes_5,Med B,Yes,Pending,6:57,16:49,Paid,Poor,"Patient_010, P010",

@@ -1,0 +1,21 @@
+Trial ID,Name,Principal Investigator,Start Date,End Date,Sample Type,Number of Samples,Data Collected,Notes,Phase,is_random,placebo,Funding Source,Ethical Approval,Collaborating Institutions,Data Sharing Plan,Publication Status
+1,Gene Expression Analysis,Dr. John Doe,1/1/23,6/1/23,Blood,100,RNA-Seq,-,1,TRUE,FALSE,NIH,Approved,University A,Yes,Published
+2,Protein Interaction Study,Dr. Jane Smith,2/15/23,8/15/23,Tissue,50,Mass Spectrometry,-,2,FALSE,TRUE,NSF,Approved,University B,Yes,In Progress
+3,Drug Efficacy Trial,Dr. Alan Brown,3/1/23,9/1/23,Plasma,200,Clinical outcomes,-,3,TRUE,FALSE,Pharma Inc.,Approved,University C,No,Published
+4,Microbiome Analysis,Dr. Emily White,4/1/23,10/1/23,Stool,150,16S rRNA Sequencing,-,4,FALSE,TRUE,NIH,Approved,University D,Yes,In Progress
+5,Cancer Biomarker Discovery,Dr. Michael Green,5/1/23,11/1/23,Tumor Tissue,80,Proteomics,-,1,TRUE,FALSE,Cancer Research Fund,Approved,University E,No,Published
+6,Vaccine Response Study,Dr. Sarah Black,6/1/23,12/1/23,Serum,120,ELISA,-,2,FALSE,TRUE,WHO,Approved,University F,Yes,In Progress
+7,Metabolomics Profiling,Dr. David Blue,7/1/23,1/1/24,Urine,90,NMR Spectroscopy,-,3,TRUE,FALSE,NIH,Approved,University G,No,Published
+8,Genetic Variation Study,Dr. Laura Red,8/1/23,2/1/24,Saliva,110,Whole Genome Sequencing,-,4,FALSE,TRUE,NSF,Approved,University H,Yes,In Progress
+9,Cell Line Experiment,Dr. Robert Yellow,9/1/23,3/1/24,Cell Lines,60,RNA-Seq,-,1,TRUE,FALSE,Pharma Inc.,Approved,University I,No,Published
+10,Immunotherapy Trial,Dr. Linda Purple,10/1/23,4/1/24,Blood,130,Flow Cytometry,-,2,FALSE,TRUE,Cancer Research Fund,Approved,University J,Yes,In Progress
+11,Neurodegenerative Disease Study,Dr. Kevin Orange,11/1/23,5/1/24,CSF,70,Proteomics,-,3,TRUE,FALSE,NIH,Approved,University K,No,Published
+12,Plant Stress Response,Dr. Nancy Pink,12/1/23,6/1/24,Leaf Tissue,140,RNA-Seq,-,4,FALSE,TRUE,NSF,Approved,University L,Yes,In Progress
+13,Cardiovascular Disease Study,Dr. Thomas Brown,1/1/24,7/1/24,Blood,160,Metabolomics,-,1,TRUE,FALSE,Heart Foundation,Approved,University M,No,Published
+14,Infectious Disease Study,Dr. Olivia Green,2/1/24,8/1/24,Nasal Swabs,100,qPCR,-,2,FALSE,TRUE,WHO,Approved,University N,Yes,In Progress
+15,Diabetes Biomarker Study,Dr. Peter White,3/1/24,9/1/24,Blood,180,Proteomics,-,3,TRUE,FALSE,Diabetes Research Fund,Approved,University O,No,Published
+16,Aging Study,Dr. Rachel Black,4/1/24,10/1/24,Blood,200,RNA-Seq,-,4,FALSE,TRUE,NIH,Approved,University P,Yes,In Progress
+17,Environmental Microbiology,Dr. Steven Blue,5/1/24,11/1/24,Soil,90,Metagenomics,-,1,TRUE,FALSE,NSF,Approved,University Q,No,Published
+18,Autoimmune Disease Study,Dr. Teresa Red,6/1/24,12/1/24,Blood,150,Flow Cytometry,-,2,FALSE,TRUE,Pharma Inc.,Approved,University R,Yes,In Progress
+19,Neuroimaging Study,Dr. Victor Yellow,7/1/24,1/1/25,Brain Scans,80,MRI,-,3,TRUE,FALSE,NIH,Approved,University S,No,Published
+20,Respiratory Disease Study,Dr. Wendy Purple,8/1/24,2/1/25,Sputum,110,qPCR,-,4,FALSE,TRUE,WHO,Approved,University T,Yes,In Progress

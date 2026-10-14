@@ -1,0 +1,17 @@
+﻿strain_info,MG1655 ,K12,Nissle,MG1655,K12,M15,M15,M15,M15,K12
+Time (hrs),3,4,3,4,3,1,2,3,4,5
+Crispr,dCas9_deletion,dCas9_knockout,dCas9_deletion,dCas12_knockdown,dCas12_deletion,dCas12_knockdown,dCas12_deletion,dCas12_knockdown,dCas12_deletion,dCas12_knockdown
+measurement1,plate reader,plate reader,plate reader,plate reader,plate reader,plate reader,plate reader,plate reader,plate reader,plate reader
+measurement2,flow cytometer,flow cytometer,flow cytometer,flow cytometer,flow cytometer,flow cytometer,flow cytometer,flow cytometer,,flow cytometer
+plasmid,pj1,pj2,pj3,pj4,pj5,pj6,pj7,pj8,pj9,pj10
+origin,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1
+media,minimal,minimal,minimal,minimal,minimal,minimal,minimal,minimal,minimal,minimal
+carbon source,glucose,sucrose,xylose,fructose,methane,xylose,fructose,methane,xylose,fructose
+nitrogen source,ammonium chloride,ammonium chloride,ammonium chloride,ammonium chloride,ammonium chloride,nitrate,nitrate,nitrate,nitrate,nitrate
+stressor,,,,,,,,,,
+morphology,round,round,thin,thin,flat,,,,,
+gram_neg,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+gram_pos,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+antibiotic,carb,carb,carb,carb,carb,carb,carb,carb,carb,carb
+transformation_type,conjugation,electroporation,conjugation,conjugation,electroporation,conjugation,electroporation,conjugation,electroporation,conjugation
+library_size,large,small,small,large,large,small,small,large,large,large

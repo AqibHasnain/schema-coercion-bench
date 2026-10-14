@@ -1,0 +1,13 @@
+{
+  "id": "experiment/mom1_data_v2",
+  "model": "../../../models/mom1_pydantic.v1.py",
+  "target_classes": [
+    "Experiment"
+  ],
+  "inputs": [
+    "inputs/mom1_data_v2.xlsx"
+  ],
+  "expected": [
+    "expected/Experiment.csv"
+  ]
+}

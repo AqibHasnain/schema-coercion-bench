@@ -1,0 +1,16 @@
+{
+  "id": "clinical/e4",
+  "model": "../../../models/mom_pydantic_tumor_patient.py",
+  "target_classes": [
+    "Patient"
+  ],
+  "inputs": [
+    "inputs/e4_patient_data.csv",
+    "inputs/e4_patient_data_2.csv"
+  ],
+  "expected": [
+    "expected/Patient.possibility1.xlsx",
+    "expected/Patient.possibility2.xlsx"
+  ],
+  "notes": "Two reference outputs; either is a correct answer."
+}

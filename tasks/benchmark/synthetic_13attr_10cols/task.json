@@ -1,0 +1,13 @@
+{
+  "id": "benchmark/synthetic_13attr_10cols",
+  "model": "../../../models/9_biological_models.v1.py",
+  "target_classes": [
+    "Synthetic"
+  ],
+  "inputs": [
+    "inputs/test_Synthetic_13attr_10cols_20rows_1.csv"
+  ],
+  "expected": [
+    "expected/Synthetic.csv"
+  ]
+}

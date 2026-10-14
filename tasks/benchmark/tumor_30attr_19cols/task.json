@@ -1,0 +1,13 @@
+{
+  "id": "benchmark/tumor_30attr_19cols",
+  "model": "../../../models/9_biological_models.v1.py",
+  "target_classes": [
+    "Tumor"
+  ],
+  "inputs": [
+    "inputs/test_Tumor_30attrs_19cols_20rows_1.csv"
+  ],
+  "expected": [
+    "expected/Tumor.csv"
+  ]
+}

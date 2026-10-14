@@ -1,0 +1,11 @@
+{
+  "id": "experiment/mom1_merge_5",
+  "model": "../../../models/mom1_pydantic.v2.py",
+  "target_classes": [
+    "Experiment"
+  ],
+  "inputs": [
+    "inputs/merge_5.xlsx"
+  ],
+  "expected": []
+}

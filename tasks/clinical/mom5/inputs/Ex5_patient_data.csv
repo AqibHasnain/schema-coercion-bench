@@ -1,0 +1,20 @@
+﻿species,name,gender,weight_kg,active,last_appointment_date,height_cm,blood_type,allergies,chronic_conditions,emergency_contact_name,emergency_contact_phone,insurance_provider,insurance_policy_number,address,phone_number,email,smoking_status,alcohol_consumption,medications,family_history
+human,Carol White,female,70.5,TRUE,5/20/23,175,O+,None,None,Mary Doe,123-456-7890,Provider A,PA123456,"123 Main St, Anytown, USA",123-456-7890,john.doe@example.com,Non-smoker,Moderate,None,None
+human,Jane Smith,female,60,TRUE,6/15/23,165,A-,Peanuts,Asthma,Tom Smith,234-567-8901,Provider B,PB234567,"456 Oak St, Anytown, USA",234-567-8901,jane.smith@example.com,Smoker,Low,Inhaler,Asthma
+human,Alice Brown,female,68.2,FALSE,4/10/23,170,B+,Penicillin,Diabetes,Rick Johnson,345-678-9012,Provider A,PA345678,"789 Pine St, Anytown, USA",345-678-9012,alice.johnson@example.com,Non-smoker,High,Insulin,Diabetes
+human,Bob Johnson,male,85.3,TRUE,5/25/23,180,AB+,None,Hypertension,Sara Brown,456-789-0123,Provider C,PC456789,"101 Maple St, Anytown, USA",456-789-0123,bob.brown@example.com,Smoker,Moderate,Antihypertensive,Hypertension
+human,John Doe,male,52.4,FALSE,6/5/23,160,O-,Latex,None,Laura Davis,567-890-1234,Provider B,PB567890,"202 Birch St, Anytown, USA",567-890-1234,charlie.davis@example.com,Non-smoker,Low,None,None
+human,Ricky H,,55,TRUE,5/20/23,175,O+,None,None,Mary Doe,123-456-7890,Provider A,PA123456,"123 Main St, Anytown, USA",123-456-7890,john.doe@example.com,Non-smoker,Moderate,None,None
+human,Rick S.,,56,TRUE,6/15/23,165,A-,Peanuts,Asthma,Tom Smith,234-567-8901,Provider B,PB234567,"456 Oak St, Anytown, USA",234-567-8901,jane.smith@example.com,Smoker,Low,Inhaler,Asthma
+human,Jake,,57,FALSE,4/10/23,170,B+,Penicillin,Diabetes,Rick Johnson,345-678-9012,Provider A,PA345678,"789 Pine St, Anytown, USA",345-678-9012,alice.johnson@example.com,Non-smoker,High,Insulin,Diabetes
+human,Joey,,58,TRUE,5/25/23,180,AB+,None,Hypertension,Sara Brown,456-789-0123,Provider C,PC456789,"101 Maple St, Anytown, USA",456-789-0123,bob.brown@example.com,Smoker,Moderate,Antihypertensive,Hypertension
+human,Joseph,,59,FALSE,6/5/23,160,O-,Latex,None,Laura Davis,567-890-1234,Provider B,PB567890,"202 Birch St, Anytown, USA",567-890-1234,charlie.davis@example.com,Non-smoker,Low,None,None
+human,Patient_011,,56,TRUE,6/15/23,165,A-,Peanuts,Asthma,Tom Smith,234-567-8901,Provider B,PB234567,"456 Oak St, Anytown, USA",234-567-8901,jane.smith@example.com,Smoker,Low,Inhaler,Asthma
+human,Michael,male,57,FALSE,4/10/23,170,B+,Penicillin,Diabetes,Rick Johnson,345-678-9012,Provider A,PA345678,"789 Pine St, Anytown, USA",345-678-9012,alice.johnson@example.com,Non-smoker,High,Insulin,Diabetes
+human,Mae,female,58,TRUE,5/25/23,180,AB+,None,Hypertension,Sara Brown,456-789-0123,Provider C,PC456789,"101 Maple St, Anytown, USA",456-789-0123,bob.brown@example.com,Smoker,Moderate,Antihypertensive,Hypertension
+human,Misty,,59,FALSE,6/5/23,160,O-,Latex,None,Laura Davis,567-890-1234,Provider B,PB567890,"202 Birch St, Anytown, USA",567-890-1234,charlie.davis@example.com,Non-smoker,Low,None,None
+human,Brock,,56,TRUE,6/15/23,165,A-,Peanuts,Asthma,Tom Smith,234-567-8901,Provider B,PB234567,"456 Oak St, Anytown, USA",234-567-8901,jane.smith@example.com,Smoker,Low,Inhaler,Asthma
+human,Ash,,57,FALSE,4/10/23,170,B+,Penicillin,Diabetes,Rick Johnson,345-678-9012,Provider A,PA345678,"789 Pine St, Anytown, USA",345-678-9012,alice.johnson@example.com,Non-smoker,High,Insulin,Diabetes
+human,Goku,,58,TRUE,5/25/23,180,AB+,None,Hypertension,Sara Brown,456-789-0123,Provider C,PC456789,"101 Maple St, Anytown, USA",456-789-0123,bob.brown@example.com,Smoker,Moderate,Antihypertensive,Hypertension
+human,Gohan,,59,FALSE,6/5/23,160,O-,Latex,None,Laura Davis,567-890-1234,Provider B,PB567890,"202 Birch St, Anytown, USA",567-890-1234,charlie.davis@example.com,Non-smoker,Low,None,None
+human,Goten,,59,FALSE,6/5/23,160,O-,Latex,None,Laura Davis,567-890-1234,Provider B,PB567890,"202 Birch St, Anytown, USA",567-890-1234,charlie.davis@example.com,Non-smoker,Low,None,None

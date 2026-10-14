@@ -1,0 +1,14 @@
+{
+  "id": "clinical/e5",
+  "model": "../../../models/mom_pydantic_tumor_patient.py",
+  "target_classes": [
+    "Patient"
+  ],
+  "inputs": [
+    "inputs/e5_patient_data.xlsx",
+    "inputs/e5_patient_data_2.csv"
+  ],
+  "expected": [
+    "expected/Patient.xlsx"
+  ]
+}

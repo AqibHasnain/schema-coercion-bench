@@ -1,0 +1,13 @@
+{
+  "id": "synthetic/organism_level_1",
+  "model": "../../../models/pydantic_level_1.py",
+  "target_classes": [
+    "Organism"
+  ],
+  "inputs": [
+    "inputs/synthetic_organism_initial.tsv"
+  ],
+  "expected": [
+    "expected/Organism.csv"
+  ]
+}

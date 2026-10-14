@@ -1,0 +1,21 @@
+water_temp,body_mass,Age,Age_Unit,Perturbation_1,Perturbation_2,food,health_status,animal_type,cleanliness,test_date,quality_check,diet,Additional_Column_1,Additional_Column_2
+23.45,150.67,25,years,Medium,High,5.67,Disease A,Species X,Yes,2023-06-17,Pass,Herbivore,Value1,ValueA
+45.12,200.34,30,months,Low,Medium,3.45,Disease B,Species Y,No,2023-12-25,Fail,Carnivore,Value2,ValueB
+12.78,120.56,45,days,High,Low,7.89,Disease C,Species Z,Yes,2024-01-15,Pass,Omnivore,Value3,ValueC
+67.89,180.23,60,years,Medium,High,2.34,Disease A,Species X,No,2023-03-10,Fail,Herbivore,Value1,ValueA
+34.56,140.78,20,months,Low,Medium,4.56,Disease B,Species Y,Yes,2023-08-05,Pass,Carnivore,Value2,ValueB
+89.12,160.45,35,days,High,Low,6.78,Disease C,Species Z,No,2023-11-20,Fail,Omnivore,Value3,ValueC
+23.45,150.67,25,years,Medium,High,5.67,Disease A,Species X,Yes,2023-06-17,Pass,Herbivore,Value1,ValueA
+45.12,200.34,30,months,Low,Medium,3.45,Disease B,Species Y,No,2023-12-25,Fail,Carnivore,Value2,ValueB
+12.78,120.56,45,days,High,Low,7.89,Disease C,Species Z,Yes,2024-01-15,Pass,Omnivore,Value3,ValueC
+67.89,180.23,60,years,Medium,High,2.34,Disease A,Species X,No,2023-03-10,Fail,Herbivore,Value1,ValueA
+34.56,140.78,20,months,Low,Medium,4.56,Disease B,Species Y,Yes,2023-08-05,Pass,Carnivore,Value2,ValueB
+89.12,160.45,35,days,High,Low,6.78,Disease C,Species Z,No,2023-11-20,Fail,Omnivore,Value3,ValueC
+23.45,150.67,25,years,Medium,High,5.67,Disease A,Species X,Yes,2023-06-17,Pass,Herbivore,Value1,ValueA
+45.12,200.34,30,months,Low,Medium,3.45,Disease B,Species Y,No,2023-12-25,Fail,Carnivore,Value2,ValueB
+12.78,120.56,45,days,High,Low,7.89,Disease C,Species Z,Yes,2024-01-15,Pass,Omnivore,Value3,ValueC
+67.89,180.23,60,years,Medium,High,2.34,Disease A,Species X,No,2023-03-10,Fail,Herbivore,Value1,ValueA
+34.56,140.78,20,months,Low,Medium,4.56,Disease B,Species Y,Yes,2023-08-05,Pass,Carnivore,Value2,ValueB
+89.12,160.45,35,days,High,Low,6.78,Disease C,Species Z,No,2023-11-20,Fail,Omnivore,Value3,ValueC
+23.45,150.67,25,years,Medium,High,5.67,Disease A,Species X,Yes,2023-06-17,Pass,Herbivore,Value1,ValueA
+45.12,200.34,30,months,Low,Medium,3.45,Disease B,Species Y,No,2023-12-25,Fail,Carnivore,Value2,ValueB

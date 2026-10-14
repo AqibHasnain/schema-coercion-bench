@@ -1,0 +1,6 @@
+ID,name,age,weight,active,last_appointment_date,ethnicity
+P001,John Doe,45,70 kg,Yes,5th Oct 2024,1/2 Indian 1/4 caucasian 1/4 chinese
+P002,Jane Smith,50,80000g,Unknown,"""5- 6 -2024"""," [french, latino]"
+P003,Alice Brown,60,165lbs,Maybe,1/4/23,Patient is European
+P004,Bob Johnson,35,190 pounds,,1/5/22,South east Asian
+P005,Carol White,40,55 kilograms,Active,22/4/5, half black half asian

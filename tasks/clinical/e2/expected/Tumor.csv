@@ -1,0 +1,6 @@
+,tumor_type,state,weight,weight_unit,dimension_length_cm,dimension_width_cm,dimension_height_cm,diagnosis_date,Tumor_ID,refAttr_patient_Patient_name,patient_Patient_mithrlRecord
+0,benign,stage_I,1.5,kg,7.62,2.0,0.1,2024-03-11,T001,John,Reference attribute `patient` matched to row `0` in the `Patient` table using column(s) `name`.
+1,malignant,stage_II,2.0,kg,11.43,3.5,0.25,2023-12-02,T002,Jane,Reference attribute `patient` matched to row `1` in the `Patient` table using column(s) `name`.
+2,adenoma,stage_III,1.0,kg,5.08,1.5,0.1,2023-08-24,T003,Alice,Reference attribute `patient` matched to row `2` in the `Patient` table using column(s) `name`.
+3,fibroma,stage_IV,3.5,kg,13.97,4.0,0.3,2023-05-16,T004,Bob,Reference attribute `patient` matched to row `3` in the `Patient` table using column(s) `name`.
+4,lipoma,T1,2.5,kg,10.16,3.0,0.2,2023-02-05,T005,Carol,Reference attribute `patient` matched to row `4` in the `Patient` table using column(s) `name`.

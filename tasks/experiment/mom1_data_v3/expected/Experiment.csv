@@ -1,0 +1,9 @@
+experiment_no,crispr,carbon_source,nitrogen_source,stressor,shaking_temp,plate_type,timept_hrs,shaking_speed,strain,media
+1,,,,,,,2.0,200,E. coli,LB
+1,,,,,,,4.0,400,E. coli,LB
+1,,,,,,,8.0,600,E. coli,LB
+2,,,,,,,4.0,400,E. coli,R2A + 0.1%glucose
+2,,,,,,,8.0,800,E. coli,R2A + 0.1%glucose
+2,,,,,,,10.0,200,E. coli,R2A + 0.1%glucose
+5,,,,,,,0.0,300,B.subtilus,None
+5,,,,,,,48.0,None,B.subtilus,None

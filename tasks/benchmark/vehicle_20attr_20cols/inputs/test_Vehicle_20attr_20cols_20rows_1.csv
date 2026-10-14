@@ -1,0 +1,21 @@
+make,model,year,vin,color,engine,fuel,transmission_type,style,odometer_reading,registration,is_insured,history,has_gps,has_airbags,has_abs,has_rear_camera,has_sensors,has_wifi,has_internet
+Acme Corp,alpha,2015,AB123456CD7890,Red,2.5,Gasoline,Automatic,Sedan,45000,XY123456,True,Regular maintenance,True,6,True,True,True,True,True
+Globex,beta,2020,EF123456GH7890,Blue,3.0,Diesel,Manual,SUV,30000,AB654321,False,Minor accident,False,4,True,False,True,False,False
+Initech,gamma,2018,IJ123456KL7890,Green,1.8,Hybrid,Automatic,Coupe,60000,CD987654,True,No issues,True,8,True,True,False,True,True
+Hooli,delta,2022,MN123456OP7890,Black,4.0,Electric,Automatic,Convertible,10000,EF123456,True,New vehicle,True,10,True,True,True,True,True
+Umbrella Corp,epsilon,2010,QR123456ST7890,White,2.0,Gasoline,Manual,Truck,120000,GH654321,False,Regular maintenance,False,6,False,False,False,False,False
+Stark Industries,omega,2019,UV123456WX7890,Silver,3.5,Gasoline,Automatic,Sedan,50000,IJ123456,True,Minor repairs,True,6,True,True,True,True,True
+Wayne Enterprises,theta,2016,YZ123456AB7890,Yellow,2.2,Diesel,Manual,SUV,70000,KL654321,True,No issues,True,8,True,False,True,False,True
+Wonka Industries,lambda,2021,CD123456EF7890,Purple,1.5,Hybrid,Automatic,Coupe,20000,MN987654,True,New vehicle,True,6,True,True,True,True,True
+Cyberdyne Systems,mu,2017,GH123456IJ7890,Orange,2.8,Gasoline,Manual,Truck,80000,OP123456,False,Regular maintenance,False,4,True,False,False,False,False
+Tyrell Corporation,nu,2014,KL123456MN7890,Blue,3.2,Diesel,Automatic,Sedan,90000,QR654321,True,Minor accident,True,6,True,True,True,True,True
+Oscorp Industries,xi,2013,OP123456QR7890,Green,2.0,Gasoline,Manual,SUV,110000,ST123456,False,Regular maintenance,False,8,True,False,True,False,False
+LexCorp,pi,2011,ST123456UV7890,Red,1.8,Hybrid,Automatic,Coupe,130000,UV654321,True,No issues,True,6,True,True,True,True,True
+Weyland-Yutani,chi,2023,WX123456YZ7890,Black,4.5,Electric,Automatic,Convertible,5000,WX123456,True,New vehicle,True,10,True,True,True,True,True
+Soylent Corp,psi,2009,AB123456CD7890,White,2.5,Gasoline,Manual,Truck,140000,AB654321,False,Regular maintenance,False,6,False,False,False,False,False
+MomCorp,omega,2012,EF123456GH7890,Silver,3.0,Diesel,Automatic,Sedan,100000,CD987654,True,Minor repairs,True,6,True,True,True,True,True
+Planet Express,alpha,2018,IJ123456KL7890,Yellow,1.8,Hybrid,Manual,SUV,60000,EF123456,True,No issues,True,8,True,False,True,False,True
+Acme Corp,beta,2015,MN123456OP7890,Purple,2.2,Gasoline,Automatic,Coupe,45000,GH654321,True,Regular maintenance,True,6,True,True,True,True,True
+Globex,gamma,2020,QR123456ST7890,Orange,3.5,Diesel,Manual,Truck,30000,IJ123456,False,Minor accident,False,4,True,False,False,False,False
+Initech,delta,2019,UV123456WX7890,Blue,2.0,Hybrid,Automatic,Sedan,50000,KL654321,True,No issues,True,6,True,True,True,True,True
+Hooli,epsilon,2021,YZ123456AB7890,Green,1.5,Electric,Manual,SUV,20000,MN987654,True,New vehicle,True,8,True,False,True,False,True

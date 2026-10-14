@@ -1,0 +1,6 @@
+,symptoms,chemotherapy_response_date,radiation_therapy_response_date,treatment_start_datetime,last_treatment_update,Treatment_ID,refAttr_tumor_Tumor_Tumor_ID,tumor_Tumor_mithrlRecord
+0,"['fever', 'weakness']",4/20/24,12/24/23 0:00,11/21/23 21:25,3/22/23 0:00,TR001,T001,Reference attribute `tumor` matched to row `0` in the `Tumor` table using column(s) `Tumor_ID`.
+1,[],2/20/24,6/29/23 0:00,3/17/23 0:40,12/27/23 0:00,TR002,T002,Reference attribute `tumor` matched to row `1` in the `Tumor` table using column(s) `Tumor_ID`.
+2,['pain'],12/22/23,1/15/23 0:00,2/11/23 0:00,6/28/23 0:00,TR003,T003,Reference attribute `tumor` matched to row `2` in the `Tumor` table using column(s) `Tumor_ID`.
+3,['fatigue'],10/23/23,None,12/26/23 0:00,9/13/23 0:00,TR004,T004,Reference attribute `tumor` matched to row `3` in the `Tumor` table using column(s) `Tumor_ID`.
+4,['weight_loss'],8/24/23,11/15/23 0:00,3/15/24 0:00,11/1/23 0:00,TR005,T005,Reference attribute `tumor` matched to row `4` in the `Tumor` table using column(s) `Tumor_ID`.

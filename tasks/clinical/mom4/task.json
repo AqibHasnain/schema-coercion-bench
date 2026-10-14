@@ -1,0 +1,16 @@
+{
+  "id": "clinical/mom4",
+  "model": "../../../models/mom_pydantic_tumor_patient.py",
+  "target_classes": [
+    "Patient",
+    "Appointment"
+  ],
+  "inputs": [
+    "inputs/mom4_patient_data.csv",
+    "inputs/mom4_appointment_data.csv"
+  ],
+  "expected": [
+    "expected/Patient.csv",
+    "expected/Appointment.csv"
+  ]
+}

@@ -1,0 +1,11 @@
+Water_Temp__celsius_,Body_Mass__pounds_,Age,Age_Unit,Perturbation_1,Perturbation_2,Food_Mass__kg_,Disease,Species,Lint_Me,Experiment_Date,failure_detection_test,diet
+0,25.0003908,10,Years,OSKM,LINE1,0.005,Carcinoma,Homo sapiens,weird caps,1/1/23 0:00,foo,mediterranean diet
+37.77777778,5.20069858,12,Months,None,diet change,0.01,Carcinoma,Rattus norvegicus,extra whitespace,1/2/23 0:00,bar,mediterranean diet
+100,22.0462,8,Days,LINE2,LINE3,0.015,Carcinoma,Canis familiaris,does this matter,1/1/23 10:00,foo,mediterranean diet
+,,,,,,,Carcinoma,Sus scrofa,,,foo,
+,,,,,,,No disease,Homo sapiens,,,bar,
+,,,,,,,No disease,Homo sapiens,,,foo,
+,,,,,,,No disease,,,,bar,
+,,,,,,,No disease,,,,,
+,,fetus,Others,,,,No disease,Homo sapiens,,,,
+,,,,,,,,,,,,

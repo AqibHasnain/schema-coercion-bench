@@ -1,0 +1,21 @@
+Name,Start Date,Sample Type,Number of Samples,Data Collected,Phase,is_random
+Gene Expression Analysis,1/1/23,Blood,100,RNA-Seq,1,TRUE
+Protein Interaction Study,2/15/23,Tissue,50,Mass Spectrometry,2,FALSE
+Drug Efficacy Trial,3/1/23,Plasma,200,Clinical outcomes,3,TRUE
+Microbiome Analysis,4/1/23,Stool,150,16S rRNA Sequencing,4,FALSE
+Cancer Biomarker Discovery,5/1/23,Tumor Tissue,80,Proteomics,1,TRUE
+Vaccine Response Study,6/1/23,Serum,120,ELISA,2,FALSE
+Metabolomics Profiling,7/1/23,Urine,90,NMR Spectroscopy,3,TRUE
+Genetic Variation Study,8/1/23,Saliva,110,Whole Genome Sequencing,4,FALSE
+Cell Line Experiment,9/1/23,Cell Lines,60,RNA-Seq,1,TRUE
+Immunotherapy Trial,10/1/23,Blood,130,Flow Cytometry,2,FALSE
+Neurodegenerative Disease Study,11/1/23,CSF,70,Proteomics,3,TRUE
+Plant Stress Response,12/1/23,Leaf Tissue,140,RNA-Seq,4,FALSE
+Cardiovascular Disease Study,1/1/24,Blood,160,Metabolomics,1,TRUE
+Infectious Disease Study,2/1/24,Nasal Swabs,100,qPCR,2,FALSE
+Diabetes Biomarker Study,3/1/24,Blood,180,Proteomics,3,TRUE
+Aging Study,4/1/24,Blood,200,RNA-Seq,4,FALSE
+Environmental Microbiology,5/1/24,Soil,90,Metagenomics,1,TRUE
+Autoimmune Disease Study,6/1/24,Blood,150,Flow Cytometry,2,FALSE
+Neuroimaging Study,7/1/24,Brain Scans,80,MRI,3,TRUE
+Respiratory Disease Study,8/1/24,Sputum,110,qPCR,4,FALSE

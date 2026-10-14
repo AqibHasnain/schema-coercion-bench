@@ -1,0 +1,21 @@
+reagent_name,formula,storage location,phase,form,manufacture_date,expiry_date,conditions,impurities(%),requires_training,allowed_users,is_used,max_dose_per_use (mg),,color,used_in_rad_work
+Barium Chloride,BaCl2,4C fridge,Solid,Powder,4/12/21,4/12/26,,,FALSE,,TRUE,20,,white,no
+Isopropanol,C3H8O,-20C fridge,Liquid,Liquid,2/1/22 0:00,2/1/24 0:00,,,FALSE,,TRUE,25,,transparent,no
+Sucrose,,-20C fridge,Solid,Crystalline,5/15/20,5/15/25,pH 5.5; Temp 20¬∞C,,FALSE,,TRUE,25,,white,no
+Phosphoric Acid,H3PO4,Chemical Cabinet,Liquid,Solution,1/10/23,1/10/25,,Phosphorus 0.02; Sulfur 0.01,FALSE,,TRUE,20,,transparent,no
+table,,,,,,,,,,,,,,,
+Acetone,C3H6O,Flammable storage cabinet,Liquid,Liquid,8/18/21,8/18/23,,,FALSE,,TRUE,10,,transparent,no
+Methanol,CH3OH,Flammable storage cabinet,Liquid,Liquid,5/14/22 0:00,5/14/24 0:00,,,FALSE,"AH, BS, SB",TRUE,10,,transparent,yes
+Sulfuric Acid,H2SO4,Chemical Cabinet,Liquid,Solution,12/11/20,12/11/23,,Lead 0.003; Zinc 0.002,TRUE,,TRUE,25,,yellow,no
+Potassium Hydroxide,KOH,-20C fridge,Solid,Solid,7/20/21,7/20/24,,,TRUE,,TRUE,20,,white,no
+Ammonium Nitrate,,-20C fridge,Solid,Granular,6/30/22 0:00,6/30/24 0:00,,,FALSE,,TRUE,20,,white,no
+Calcium Sulfate,CaSO4,-20C     fridge,Solid,Powder,10/5/20,10/5/25,,Magnesium 0.02; Silicon 0.006,FALSE,,FALSE,10,,white,no
+Toluene,C7H8,-20C fridge,Liquid,Liquid,9/14/21,2023-09,,,FALSE,,FALSE,25,,transparent,no
+Nitrous Acid,HNO2,-20C fridge,Liquid,Solution,7/10/22 0:00,7/10/24 0:00,,,FALSE,,TRUE,50,,transparent,no
+Magnesium Chloride,,-20C fridge,Solid,Granular,11/11/20,11/11/25,,Sodium 0.03; Calcium 0.02,FALSE,,TRUE,50,,white,no
+Formaldehyde,CH2O,Fume hood,Gas,Gas,12/5/21,12/5/23,,,TRUE,"AH, BS, SB",TRUE,50,,,no
+Hydrochloric Acid,HCl,-20C fridge,Liquid,Solution,8/25/22 0:00,8/25/24 0:00,,,TRUE,,TRUE,,,transparent,no
+Sodium Carbonate,Na2CO3,-20C fridge,Solid,Solid,6/1/20,,,Potassium 0.01; Calcium 0.007,FALSE,,TRUE,50,,white,no
+Benzene,C6H6,Flammable storage cabinet,Liquid,Liquid,7/15/21,7/15/23,,,FALSE,,TRUE,,,transparent,no
+Hydrogen Peroxide,H2O2,Chemical Cabinet,Liquid,Solution,9/20/22 0:00,9/20/24 0:00,,,FALSE,,TRUE,,,transparent,no
+Magnesium Hydroxide,,-80C freezer,Solid,Solid,5/10/20,5/10/25,,Calcium 0.02; Iron 0.006,FALSE,,TRUE,20,,white,no

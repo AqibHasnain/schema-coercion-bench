@@ -1,0 +1,13 @@
+{
+  "id": "benchmark/reagent_5attr_16cols",
+  "model": "../../../models/9_biological_models.v2.py",
+  "target_classes": [
+    "Reagent"
+  ],
+  "inputs": [
+    "inputs/test_Reagent_5attr_16cols_20rows_1.csv"
+  ],
+  "expected": [
+    "expected/Reagent.csv"
+  ]
+}

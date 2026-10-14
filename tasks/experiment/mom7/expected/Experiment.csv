@@ -1,0 +1,16 @@
+,stressor,shaking_speed,shaking_temp,timept_hrs,strain,crispr,media,carbon_source,nitrogen_source,plate_type
+0,,200.0 rpm,30.0 C,1,MG1655,dCas9,,,,24 deepwell
+1,,200.0 rpm,30.0 C,2,K12,dCas11a,,,,24 deepwell
+2,,200.0 rpm,30.0 C,,,,,,,48 well
+3,,180.0 rpm,30.0 C,,,,,,,48 well
+4,,180.0 rpm,30.0 C,1,K12,dCas12,,,,48 well
+5,,None,None,3,MG1655,dCas9_deletion,minimal,glucose,ammonium chloride,
+6,,None,None,4,K12,dCas9_knockout,minimal,sucrose,ammonium chloride,
+7,,None,None,3,Nissle,dCas9_deletion,minimal,xylose,ammonium chloride,
+8,,None,None,4,MG1655,dCas12_knockdown,minimal,fructose,ammonium chloride,
+9,,None,None,3,K12,dCas12_deletion,minimal,methane,ammonium chloride,
+10,,None,None,1,M15,dCas12_knockdown,minimal,xylose,nitrate,
+11,,None,None,2,M15,dCas12_deletion,minimal,fructose,nitrate,
+12,,None,None,3,M15,dCas12_knockdown,minimal,methane,nitrate,
+13,,None,None,4,M15,dCas12_deletion,minimal,xylose,nitrate,
+14,,None,None,5,K12,dCas12_knockdown,minimal,fructose,nitrate,

@@ -1,0 +1,11 @@
+{
+  "id": "synthetic/synthetic_level_1_variant",
+  "model": "../../../models/pydantic_for_mithrl.py",
+  "target_classes": [
+    "Synthetic"
+  ],
+  "inputs": [
+    "inputs/synthetic_initial.tsv"
+  ],
+  "expected": []
+}

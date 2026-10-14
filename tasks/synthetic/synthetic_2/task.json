@@ -1,0 +1,13 @@
+{
+  "id": "synthetic/synthetic_2",
+  "model": "../../../models/pydantic_for_mithrl_2.py",
+  "target_classes": [
+    "Synthetic"
+  ],
+  "inputs": [
+    "inputs/synthetic_2_initial.tsv"
+  ],
+  "expected": [
+    "expected/Synthetic.xlsx"
+  ]
+}

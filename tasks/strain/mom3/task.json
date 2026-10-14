@@ -1,0 +1,14 @@
+{
+  "id": "strain/mom3",
+  "model": "../../../models/mom3_pydantic_strain.py",
+  "target_classes": [
+    "Strain"
+  ],
+  "inputs": [
+    "inputs/mom3_strain_data1.csv",
+    "inputs/mom3_strain_data2.csv"
+  ],
+  "expected": [
+    "expected/Strain.csv"
+  ]
+}

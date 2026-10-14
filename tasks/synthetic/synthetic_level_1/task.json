@@ -1,0 +1,13 @@
+{
+  "id": "synthetic/synthetic_level_1",
+  "model": "../../../models/pydantic_level_1.py",
+  "target_classes": [
+    "Synthetic"
+  ],
+  "inputs": [
+    "inputs/synthetic_initial.tsv"
+  ],
+  "expected": [
+    "expected/Synthetic.csv"
+  ]
+}

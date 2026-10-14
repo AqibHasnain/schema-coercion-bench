@@ -1,0 +1,6 @@
+﻿Strain,time point (hr),crispr,crispr mechanism,top_gene,top_protein,top_metabolite,shaking speed,shaking temp,dna_conc (ng/L),abs. peak,plate type,plate manufacturer,autoclave cycle,autoclave temp C,autoclave time
+MG1655,1,dCas9,Deletion,bcl11a,BCL11A,,200rpm,30C,0.5,280nm,24 deepwell,nalgene,day before,115,30 min
+K12,2,dCas11a,Knockout,bcl11a,BCL11A,,200rpm,30C,10,280nm,24 deepwell,nalgene,day before,115,30 min
+,,,,bcl11a,BCL11A,,200rpm,30C,12,280nm,48 well,nalgene,day before,115,30 min
+,,,,p53,P53,,180rpm,30C,76,280nm,48 well,nalgene,day before,115,30 min
+K12,1,dCas12,Deletion,p53,P53,,180rpm,30C,89,280nm,48 well,nalgene,day before,115,30 min

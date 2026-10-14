@@ -1,0 +1,11 @@
+	Water temp (F)	Mass of the Body	Age	Perturbations	food mass	food mass unit	disease	species	lint me	experiment date	failure detection test	food
+0	32	11.34kg	10yr	"[OSKM,LINE1]"	5	g	cancer	human	wEirD CapS	"January 1st, 2023"	foo	mediterranean diet
+1	100	2359g	12mo	"[None,diet change]"	10	g	carcinoma	rat	extra whitespace  	1/2/23	bar	mediterranean diet
+2	212	10.0000 kg	8day	"[LINE2,LINE3]"	15	g	tumor	dog	\tdoes this matter\t	1/1/23 10:00	foo	mediterranean diet
+3							squamous cell	pig			foo	
+4							healthy	man			bar	
+5							no diease	person			foo	
+6							normal				bar	
+7							none				baz	
+8			fetus				none	human				computer
+9												computer

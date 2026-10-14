@@ -1,0 +1,21 @@
+body_mass,Age,Age_Unit,Perturbation_1,Perturbation_2,animal_type,test_date,diet,Additional_Column_1,Additional_Column_2
+150.67,25,years,Medium,High,Species X,6/17/23,Herbivore,Value1,ValueA
+200.34,30,months,Low,Medium,Species Y,12/25/23,Carnivore,Value2,ValueB
+120.56,45,days,High,Low,Species Z,1/15/24,Omnivore,Value3,ValueC
+180.23,60,years,Medium,High,Species X,3/10/23,Herbivore,Value1,ValueA
+140.78,20,months,Low,Medium,Species Y,8/5/23,Carnivore,Value2,ValueB
+160.45,35,days,High,Low,Species Z,11/20/23,Omnivore,Value3,ValueC
+150.67,25,years,Medium,High,Species X,6/17/23,Herbivore,Value1,ValueA
+200.34,30,months,Low,Medium,Species Y,12/25/23,Carnivore,Value2,ValueB
+120.56,45,days,High,Low,Species Z,1/15/24,Omnivore,Value3,ValueC
+180.23,60,years,Medium,High,Species X,3/10/23,Herbivore,Value1,ValueA
+140.78,20,months,Low,Medium,Species Y,8/5/23,Carnivore,Value2,ValueB
+160.45,35,days,High,Low,Species Z,11/20/23,Omnivore,Value3,ValueC
+150.67,25,years,Medium,High,Species X,6/17/23,Herbivore,Value1,ValueA
+200.34,30,months,Low,Medium,Species Y,12/25/23,Carnivore,Value2,ValueB
+120.56,45,days,High,Low,Species Z,1/15/24,Omnivore,Value3,ValueC
+180.23,60,years,Medium,High,Species X,3/10/23,Herbivore,Value1,ValueA
+140.78,20,months,Low,Medium,Species Y,8/5/23,Carnivore,Value2,ValueB
+160.45,35,days,High,Low,Species Z,11/20/23,Omnivore,Value3,ValueC
+150.67,25,years,Medium,High,Species X,6/17/23,Herbivore,Value1,ValueA
+200.34,30,months,Low,Medium,Species Y,12/25/23,Carnivore,Value2,ValueB

@@ -1,0 +1,11 @@
+,timept_hrs,strain,gene_manipulated
+0,3,MG1655,pir plus
+1,4,K12,lambda gene
+2,3,Nissle,pir negative
+3,4,MG1655,mmo negative
+4,3,K12,mmo plus
+5,1,MG1655,pir+
+6,2,K12,lambda
+7,1,Nissle,pir-
+8,2,MG1655,mmo-
+9,1,K12,mmo+
