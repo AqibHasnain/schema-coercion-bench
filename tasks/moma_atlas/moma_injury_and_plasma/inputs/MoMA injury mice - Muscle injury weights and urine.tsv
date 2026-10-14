@@ -1,0 +1,89 @@
+Name	 	Age	Sex	Model	Group	Mouse number	Eartag color	Cage SID (02/14/24)	Cage SID (2)	Baseline blood taken	Injury start day	Weight pre-injury	Weight pre-cast (02/21/24)	Weight post-cast (02/21/24)	Cast type	Collection date	Urine before injury? (date) (label = .1)	Feces collected before injury? (date) (label = .2)	Weight (with cast for experimental) (02/23/24)	Weight with cast at end date	Weight without cast at end date
+	9M_35	9 months	Male	Muscle injury	Control	205	lost tag	5483		02/05/24	02/21/24	44	44	NA	NA	3/11/24			42		
+	9M_36	9 months	Male	Muscle injury	Control	206	blue	5483		02/05/24	02/21/24	45	45	NA	NA	3/11/24		02/20/24	44		
+	9M_37	9 months	Male	Muscle injury	Control	207	green	5483		02/05/24	02/21/24	48	48	NA	NA	3/13/24			46		
+Jason	9M_38	9 months	Male	Muscle injury	Experimental	208	yellow	5479	moved on 20/2/24	02/05/24	02/21/24	44	44	46	M	3/13/24	02/20/24		44		
+David	9M_39	9 months	Male	Muscle injury	Experimental	209	lost tag	5479	moved on 20/2/24	02/05/24	02/21/24	50	50	52	M	3/11/24	02/20/24		48		
+Hunter	9M_40	9 months	Male	Muscle injury	Experimental	210	orange	5479		02/05/24	02/21/24	42	42	45	M	03/04/24	02/21/24	02/21/24	43	41	39
+	9M_41	9 months	Male	Muscle injury	Experimental	211	blue	5479		02/05/24	02/21/24	48	48	50	M	3/11/24	02/20/24	02/21/24	48		
+little Alex	9M_42	9 months	Male	Muscle injury	Experimental	212	green	5479		02/05/24	02/21/24	40	40	42	M	NA	02/20/24		41		
+	9F_35	9 months	Female	Muscle injury	Control	213	yellow	5489		02/05/24	02/21/24	43	43	NA	NA	3/11/24	02/21/24	02/20/24	42		
+	9F_36	9 months	Female	Muscle injury	Control	214	white	5489		02/05/24	02/21/24	25	25	NA	NA	3/13/24	02/21/24	02/20/24	24		
+	9F_37	9 months	Female	Muscle injury	Control	215	lost tag	5489		02/05/24	02/21/24	28	28	NA	NA	3/13/24	02/20/24		27		
+Jessica	9F_38	9 months	Female	Muscle injury	Experimental	216	yellow	5488	moved on 20/2/24	02/05/24	02/21/24	33	31	34	9	3/11/24		02/21/24	28		
+little Nick	9F_39	9 months	Female	Muscle injury	Experimental	217	white	5488	moved on 20/2/24	02/05/24	02/21/24	26	27	29	9	3/13/24	02/21/24	02/20/24	26		
+Sydney	9F_40	9 months	Female	Muscle injury	Experimental	219	orange	5488		02/05/24	02/21/24	33	32	34	9	3/13/24	02/20/24	02/20/24	33		
+Rochellle	9F_41	9 months	Female	Muscle injury	Experimental	218	blue	5488		02/05/24	02/21/24	37	35	37	9.5	03/06/24	02/21/24	02/20/24	34		
+Marci	9F_42	9 months	Female	Muscle injury	Experimental	220	green	5488		02/05/24	02/21/24	28	28	30	9	3/11/24	02/21/24	02/20/24	26		
+																					
+																					
+RO blood:																					
+																					
+pre	2/5/24																				
+7 DPI	03/04/24																				
+																					
+																					
+DPI	Weights 																				
+		9M_35	9M_36	9M_37	9M_38	9M_39	9M_40	9M_41	9F_35	9F_36	9F_37	9F_38	9F_39	9F_40	9F_41		9F_42				
+		lost tag	blue	green	yellow	lost tag	orange	blue	yellow	white / lost (brown)	lost tag (black)	yellow	white	orange	blue		green				
+pre	02/21/24	44	45	48	46	52	45	50	43	25	28	34	29	34	37		30				
+	02/23/24	42	44	46	44	48	43	48	42	24	27	28	26	33	34		26				
+1 DPI	02/27/24					46			42			31	24		32						
+2 DPI	02/28/24	40	45	46	42	46	43	45	43	26	27	32	24	29	33		24				
+3 DPI 	02/29/24	42	44	45	41	46	42	45	42	26	27	30	24	29	32		24				
+5 DPI	03/02/24	42	45	46	40	46	42	42	42	26	28	30	24	29	33		24				
+7 DPI	03/04/24	43	45	46	39	46	42	41	41	25	27	29	24	27	32		24				
+8 DPI	03/05/24	42	44	45	40	46	NA	42	40	25	28	29	25	28	32		23				
+9 DPI	03/06/24	42	44	44	40	46	NA	42	40	25	27	29	25	28	31		23				
+10 DPI	03/07/24	41	43	44	39	45	NA	42	40	25	27	30	22	27	NA		21				
+12 DPI	03/09/24	42	43	45	40	47	NA	42	39	24	27	28	25	27	NA		23				
+14 DPI 	3/11/24	44	43	NA	NA	46	NA	41	39	NA	NA	29	NA	NA	NA		22				
+15 DPI 	3/12/24	NA	NA	41* (I weighed this mouse multiple times throughout the day)	40	NA	NA	NA	NA	25	27	NA	25	28	NA		NA				
+16 DPI 	3/13/24	NA	NA	40	40	NA	NA	NA	NA	24	27	NA	25	27	NA		NA				
+																					
+DPI	Urine																				
+		9M_35	9M_36	9M_37	9M_38	9M_39	9M_40	9M_41	9F_35	9F_36	9F_37	9F_38	9F_39	9F_40	9F_41		9F_42				
+		lost tag	blue	green	yellow	lost tag	orange	blue	yellow	white / lost (brown)	lost tag (black)	yellow	white	orange	blue		green				
+pre	pre injury				02/20/24	02/20/24	02/21/24	02/20/24	02/21/24	02/21/24	02/20/24		02/21/24	02/20/24	02/21/24		02/21/24				
+2 DPI (.1B)	02/28/24	no	no	no	no	some	yes	some	some	yes	yes	yes	yes	yes	yes		some				
+5 DPI (.1C)	03/02/24	no	no	no	yes	yes	yes	yes	yes	yes	yes	no	no	yes	no		no				
+8 DPI (.1D)	03/05/24	no	no	no	no	some	NA	no	no	yes	yes	yes	yes	yes	no		yes				
+9 DPI (.1E)	03/06/24	no	no	no	no	some	NA	no	yes	some	yes	yes	some	yes	no		some				
+10 DPI (.1F)	03/07/24	no	no	no	no	no	NA	yes	yes	no	yes	no	yes	yes	NA		no				
+12 DPI (.1G)	03/09/24	no	no	no	no	no	NA	yes	no	yes	yes	yes	yes	no	NA		yes				
+14 DPI (.1H)	3/11/24	no	yes	NA	NA	no	NA	yes	yes	NA	NA	no	NA	NA	NA		no				
+15 DPI (.1I)	3/12/24	NA	NA	no	yes	NA	NA	NA	NA	yes	yes	NA	yes	yes	NA		NA				
+16 DPI (.1J)	3/13/24	NA	NA	no	no	NA	NA	NA	NA	yes	yes	NA	no	no	NA		NA				
+																					
+DPI	Feces																				
+		9M_35	9M_36	9M_37	9M_38	9M_39	9M_40	9M_41	9F_35	9F_36	9F_37	9F_38	9F_39	9F_40	9F_41		9F_42				
+		lost tag	blue	green	yellow	lost tag	orange	blue	yellow	white / lost (brown)	lost tag (black)	yellow	white	orange	blue		green				
+pre	pre injury		02/20/24				02/21/24	02/21/24	02/20/24	02/20/24		02/21/24	02/20/24	02/20/24	02/20/24		02/20/24				
+2 DPI (.2B)	02/28/24	yes	yes	yes	yes	no	yes	yes	yes	no	yes	no (cage yes)	no (cage yes)	no (cage yes)	no (cage yes)		no (cage yes)				
+5 DPI (.2C)	03/02/24	no	no	no	yes	no	no	yes	no	yes	yes	yes	yes	yes	yes		yes				
+8 DPI (.2D)	03/05/24	yes	no	no	yes	yes	03/04/24 (DOD) (.2D)	yes	yes	yes	yes	yes	yes	yes	yes		no				
+9 DPI (.2E)	03/06/24	no	yes	yes	yes	yes	NA	yes	yes	yes	no	yes	no	yes	yes		no				
+10 DPI (.2F)	03/07/24	no	yes	no	yes	no	NA	yes	yes	no	yes	yes	yes	yes	NA		yes				
+12 DPI (.2G)	03/09/24	yes	no	no	yes	yes	NA	no	yes	yes	yes	yes	yes	yes	NA		yes				
+14 DPI (.2H)	3/11/24	yes	yes	NA	NA	yes	NA	yes	no	NA	NA	yes	NA	NA	NA		no				
+15 DPI (.2I)	3/12/24	NA	NA	no	yes	NA	NA	NA	NA	yes	yes	NA	yes	yes	NA		NA				
+16 DPI (.2J)	3/13/24	NA	NA	yes	yes	NA	NA	NA	NA	yes	yes	NA	yes	no 	NA		NA				
+																					
+DPI	Comments																				
+		9M_35	9M_36	9M_37	9M_38	9M_39	9M_40	9M_41	9F_35	9F_36	9F_37	9F_38	9F_39	9F_40	9F_41		9F_42				
+		lost tag	blue	green	yellow	lost tag	orange	blue	yellow	white / lost (brown)	lost tag (black)	yellow	white	orange	blue		green				
+	02/23/24																				
+1 DPI	02/27/24				tiny swollen	tiny swollen		reajusted, swollen but not too bad				not v swollen	OK, didnt readjust 		redid cast (L to M)						
+2 DPI	02/28/24				cant see foot	OK	cant see foot	a bit swollen				a bit swollen	a bit swollen	a bit swollen	a bit swollen		quite swollen				
+3 DPI 	02/29/24				OK	OK	cant see foot	OK				removed wire but OK	removed wire but OK	removed wire but OK	OK		removed wire and ate some of cast but OK				
+4 DPI	03/01/24				OK	OK	cant see foot	OK				OK	OK	OK	OK		had removed cast, Xiaotong replaced at 1pm. 				
+5 DPI	03/02/24				OK	OK	OK	OK				redid wire	redid wire	redid wire	OK		red foot, Thea tookk some stuffing out of cast				
+6 DPI	03/03/24				OK	OK	OK	OK				OK	OK	OK	OK		OK				
+7 DPI	03/04/24				OK	OK	broken leg, cast found off, sac'd	OK				OK	OK	OK	OK		had removed cast, Thea replaced at 11am. 				
+8 DPI	03/05/24				OK	OK		OK				OK	OK	redid wire	redid wire		redid wire				
+9 DPI	03/06/24				OK	OK		OK				OK	OK	redid wire	Cut on leg from cast, sac		redid wire, had bitten off top circle holders				
+10 DPI	03/07/24				OK	OK		OK				OK	OK	OK			whole cast replaced (had bitten off top circle holder)				
+12 DPI	03/09/24				top wire replaced	top wire replaced		OK				top wire replaced	OK	red gentials, top wire replaced			OK				
+14 DPI	3/11/24	taken down	taken down		OK	taken down		taken down	taken down			taken down	OK	OK			taken down				
+15 DPI	3/12/24				OK								OK	OK							
+16 DPI	3/13/24			taken down	taken down					taken down	taken down		taken down	taken down							

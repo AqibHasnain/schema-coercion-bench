@@ -1,0 +1,89 @@
+––	Age	Sex	Model	Group	Number MoMA_3	Mouse number	Eartag color	Collection tube colour	Collection box	Mouse SID	DOB	Cage SID (02/14/24)	Cage SID (2)	Baseline blood taken (label = .3)	Injury start day	Collection day #	Collection date	Weight pre-injury	Weight pre-cast (02/21/24)	Weight post-cast (02/21/24)	Weight post-cast (02/26/24)	Cast type	Weight on collection day (g)	Urine before injury? (date) (label = .1)	Feces collected before injury? (date) (label = .2)	Notes	Whole Blood Collected (ul)	Total plasma estimated (uL)	Hemolysis?	Number of aliquots of 20ul aliquots plasma collected	Benchling ID 	Complete?
+9M_35	9 months	Male	Muscle injury	Control	1	205	lost tag	Orange	MMI.2	588	06/06/2023	5483		02/05/24	02/26/24	1	3/11/24	44	44	NA		NA	44				700		no	2	OGNSM-MUS-MLL-588	Y
+9M_36	9 months	Male	Muscle injury	Control	2	206	blue	Green	MMI.2	587	06/06/2023	5483		02/05/24	02/26/24	1	3/11/24	45	45	NA		NA	43		02/20/24		600		slight	2	OGNSM-MUS-MLL-587	Y
+9M_37	9 months	Male	Muscle injury	Control	3	207	green	Yellow	MMI.3	586	06/06/2023	5483		02/05/24	02/26/24	2	3/13/24	48	48	NA		NA	40				600		no	2	OGNSM-MUS-MLL-586	Y
+9M_38	9 months	Male	Muscle injury	Experimental	4	208	yellow	Red	MMI.3	566	06/06/2023	5479	6014	02/05/24	02/26/24	2	3/13/24	44	44	46	44	L	40	02/20/24			700		no	2	OGNSM-MUS-MLL-566	Y
+9M_39	9 months	Male	Muscle injury	Experimental	5	209	lost tag	Orange	MMI.4	567	06/06/2023	5479	6014	02/05/24	02/26/24	1	3/11/24	50	50	52	48	L	46	02/20/24		tiny bit swollen 02/27/24	600		no	2	OGNSM-MUS-MLL-567	Y
+9M_40	9 months	Male	Muscle injury	Experimental	6	210	orange	Green	MMI.1	568	06/06/2023	5479		02/05/24	02/26/24	NA	03/04/24	42	42	45	43	L	39g (without cast)	02/21/24	02/21/24	a bit swollen 02/27/24, collected 03/04/24 as broken leg during self-cast removal	500	200	No	2	OGNSM-MUS-MLL-568	Y
+9M_41	9 months	Male	Muscle injury	Experimental	7	211	blue	Yellow	MMI.1	569	06/06/2023	5479		02/05/24	02/26/24	1	3/11/24	48	48	50	46	L	41	02/20/24	02/21/24	Reajusted cast on 02/27/24	600		slight	2	OGNSM-MUS-MLL-569	Y
+9M_42	9 months	Male	Muscle injury	Experimental	8	212	green			570	06/06/2023	5479		02/05/24	02/26/24			40	40	42				02/20/24		S1 02/26/24					OGNSM-MUS-MLL-570	Y
+9F_35	9 months	Female	Muscle injury	Control	9	213	yellow	Red	MMI.4	614	06/06/2023	5489		02/05/24	02/26/24	1	3/11/24	43	43	NA		NA	39	02/21/24	02/20/24		300		yes	1	OGNSM-MUS-MLL-614	Y
+9F_36	9 months	Female	Muscle injury	Control	10	214	white	Orange	MMI.5	615	06/06/2023	5489		02/05/24	02/26/24	2	3/13/24	25	25	NA		NA	24	02/21/24	02/20/24		400		slight	2	OGNSM-MUS-MLL-615	Y
+9F_37	9 months	Female	Muscle injury	Control	11	215	lost tag	Green	MMI.5	616	06/06/2023	5489		02/05/24	02/26/24	2	3/13/24	28	28	NA		NA	27	02/20/24			400		yes	2	OGNSM-MUS-MLL-616	Y
+9F_38	9 months	Female	Muscle injury	Experimental	12	216	yellow	Yellow	MMI.6	609	06/06/2023	5488	6015	02/05/24	02/26/24	1	3/11/24	33	31	34	32	L	29		02/21/24	Reajusted cast on 02/27/24	500		no	2	OGNSM-MUS-MLL-609	Y
+9F_39	9 months	Female	Muscle injury	Experimental	13	217	white	Red	MMI.6	610	06/06/2023	5488	6015	02/05/24	02/26/24	2	3/13/24	26	27	29	26	M	27	02/21/24	02/20/24		650		no	2	OGNSM-MUS-MLL-610	Y
+9F_40	9 months	Female	Muscle injury	Experimental	14	219	orange	Green	MMI.7	611	06/06/2023	5488		02/05/24	02/26/24	2	3/13/24	33	32	34	31	M	25	02/20/24	02/20/24		500		slight	2	OGNSM-MUS-MLL-611	Y
+9F_41	9 months	Female	Muscle injury	Experimental	15	218	blue	Orange	MMI.7	612	06/06/2023	5488		02/05/24	02/26/24	NA	03/06/24	37	35	37	36	M		02/21/24	02/20/24	redid cast on 02/27/24 as came off. Changed from L to M 	500		No	2	OGNSM-MUS-MLL-612	Y
+9F_42	9 months	Female	Muscle injury	Experimental	16	220	green	Yellow	MMI.8	613	06/06/2023	5488		02/05/24	02/26/24	1	3/11/24	28	28	30	26	M	22	02/21/24	02/20/24	cast came off overnight, replaced at 1pm on 03/01/24 	450		slight	2	OGNSM-MUS-MLL-613	Y
+9M_43	9 months	Male	Lung injury	Control	17	221	white			577	06/06/2023	5481		04/16/24	04/23/24			52													OGNSM-MUS-MLL-577	
+9M_44	9 months	Male	Lung injury	Control	18	240	yellow			879	07/11/23	5747		04/16/24	04/23/24			51						no	no						OGNSM-MUS-MLL-879	
+9M_45	9 months	Male	Lung injury	Control	19	241	white			880	07/11/23	5747		04/16/24	04/23/24			41						yes	yes						OGNSM-MUS-MLL-880	
+9M_46	9 months	Male	Lung injury	Experimental	20	244	orange			881	07/11/23	5747		04/16/24	04/23/24			54						no	yes						OGNSM-MUS-MLL-881	
+9M_47	9 months	Male	Lung injury	Experimental	21	245	blue			882	07/11/23	5747		04/16/24	04/23/24			49						yes	yes						OGNSM-MUS-MLL-882	
+9M_48	9 months	Male	Lung injury	Experimental	22	226	orange	S1 3/27/24 genital inflammation		578	06/06/2023	5481																			OGNSM-MUS-MLL-578	
+9M_48	9 months	Male	Lung injury	Experimental	22	246	green			883	07/11/23	5747		04/16/24	04/23/24			50						yes	yes						OGNSM-MUS-MLL-883	
+9M_49	9 months	Male	Lung injury	Experimental	23	227	green			580	06/06/2023	5481		04/16/24	04/23/24			51													OGNSM-MUS-MLL-580	
+9M_50	9 months	Male	Lung injury	Experimental	24	228	green			802	06/20/23	5570		04/16/24	04/23/24			51						yes (03/15/24)	yes (03/15/24)						OGNSM-MUS-MLL-802	
+9F_43	9 months	Female	Lung injury	Control	25	229	yellow			589	06/06/2023	5484		04/16/24	04/23/24			35													OGNSM-MUS-MLL-589	
+9F_44	9 months	Female	Lung injury	Control	26	230	white			590	06/06/2023	5484		04/16/24	04/23/24			35													OGNSM-MUS-MLL-590	
+9F_45	9 months	Female	Lung injury	Experimental	27	233	green			593	06/06/2023	5484		04/16/24	04/23/24			30													OGNSM-MUS-MLL-593	
+9F_46	9 months	Female	Lung injury	Control	28	232	yellow			594	06/06/2023	5485		04/16/24	04/23/24			40													OGNSM-MUS-MLL-594	
+9F_47	9 months	Female	Lung injury	Control	29	231	white			595	06/06/2023	5485		04/16/24	04/23/24			25													OGNSM-MUS-MLL-595	
+9F_48	9 months	Female	Lung injury	Experimental	30	234	orange			596	06/06/2023	5485		04/16/24	04/23/24			26													OGNSM-MUS-MLL-596	
+9F_49	9 months	Female	Lung injury	Experimental	31	235	blue			597	06/06/2023	5485		04/16/24	04/23/24			36													OGNSM-MUS-MLL-597	
+9F_50	9 months	Female	Lung injury	Experimental	32	236	green			598	06/06/2023	5485		04/16/24	04/23/24			29													OGNSM-MUS-MLL-598	
+9F_51	9 months	Female	Lung injury	Experimental	33	237	green			608	06/06/2023	5487		04/16/24	04/23/24			35													OGNSM-MUS-MLL-608	
+9M_51	9 months	Male	Skin injury	Control	34	238	yellow			798	06/20/23	5570		03/15/24				47						yes	no						OGNSM-MUS-MLL-798	
+9M_52	9 months	Male	Skin injury	Control	35	239	white			799	06/20/23	5570		03/15/24				47						yes	no						OGNSM-MUS-MLL-799	
+9M_53	9 months	Male	Skin injury	Control	36	222	yellow			561	06/06/2023	5478																			OGNSM-MUS-MLL-561	
+9M_54	9 months	Male	Skin injury	Control	37																											
+9M_55	9 months	Male	Skin injury	Experimental	38	242	orange			800	06/20/23	5570		03/15/24				50						no	yes						OGNSM-MUS-MLL-800	
+9M_56	9 months	Male	Skin injury	Experimental	39	243	blue			801	06/20/23	5570		03/15/24				42						yes	no						OGNSM-MUS-MLL-801	
+9M_57	9 months	Male	Skin injury	Experimental	40	223	white			562	06/06/2023	5478																			OGNSM-MUS-MLL-562	
+9M_58	9 months	Male	Skin injury	Experimental	41	224	blue			564	06/06/2023	5478																			OGNSM-MUS-MLL-575	
+9M_59	9 months	Male	Skin injury	Experimental	42	225	green			565	06/06/2023	5478												yes	yes						OGNSM-MUS-MLL-883	
+9F_52	9 months	Female	Skin injury	Control	43	247	yellow			803	06/20/23	5571		03/15/24				32						yes	yes						OGNSM-MUS-MLL-803	
+9F_53	9 months	Female	Skin injury	Control	44	248	white			804	06/20/23	5571		03/15/24				33						some	no						OGNSM-MUS-MLL-804	
+9F_54	9 months	Female	Skin injury	Control	45	249	orange			591	06/06/2023	5484		03/15/24				42						some	no						OGNSM-MUS-MLL-591	
+9F_55	9 months	Female	Skin injury	Control	46	250	blue			592	06/06/2023	5484		03/15/24				33						yes	no						OGNSM-MUS-MLL-592	
+9F_56	9 months	Female	Skin injury	Experimental	47	251	orange			805	06/20/23	5571		03/15/24				29						yes	yes						OGNSM-MUS-MLL-805	
+9F_57	9 months	Female	Skin injury	Experimental	48	252	green			807	06/20/23	5571		03/15/24				29						yes	yes						OGNSM-MUS-MLL-807	
+9F_58	9 months	Female	Skin injury	Experimental	49	253	blue			806	06/20/23	5571		03/15/24				28						yes	yes						OGNSM-MUS-MLL-806	
+9F_59	9 months	Female	Skin injury	Experimental	50	254	orange			606	06/06/2023	5487		03/15/24				32						some	yes						OGNSM-MUS-MLL-606	
+9F_60	9 months	Female	Skin injury	Experimental	51	255	blue			607	06/06/2023	5487		03/15/24				35						some	no						OGNSM-MUS-MLL-607	
+9M_60	9 months	Male	Kidney injury	Control	52	256	yellow	blue	MKI.1	572	06/06/2023	5480		03/07/24	03/12/24	1	03/26/24	45					32	no	no		600		No	2	OGNSM-MUS-MLL-572	Y
+9M_61	9 months	Male	Kidney injury	Experimental	53	257	white	blue	MKI.6	573	06/06/2023	5480		03/07/24	03/12/24	2	03/27/24	43					37	no	no		700		No	2	OGNSM-MUS-MLL-573	Y
+9M_62	9 months	Male	Kidney injury	Control	54	258	white	green	MKI.1	875	07/11/23	5746		03/07/24	03/12/24	1	03/26/24	37					34	no	no	blood clot on left leg and adhersion in upper left lobe of liver	1200		No	2	OGNSM-MUS-MLL-875	Y
+9M_63	9 months	Male	Kidney injury	Control	55	259	orange	green	MKI.6	574	06/06/2023	5480		03/07/24	03/12/24	2	03/27/24	51					46	no	no	Small blood clot in WBC	900		No	2	OGNSM-MUS-MLL-574	Y
+9M_64	9 months	Male	Kidney injury	Experimental	56	260	blue	orange	MKI.2	575	06/06/2023	5480		03/07/24	03/12/24	1	03/26/24	39					33	no	no	fat pad and guts are all attached together (pic1)	1000		No	2	OGNSM-MUS-MLL-576	Y
+9M_65	9 months	Male	Kidney injury	Experimental	57	261	orange	orange	MKI.7	876	07/11/23	5746		03/07/24	03/12/24	2	03/27/24	32					30	no	no		800		No	2	OGNSM-MUS-MLL-876	Y
+9M_66	9 months	Male	Kidney injury	Experimental	58	262	blue	red	MKI.2	877	07/11/23	5746		03/07/24	03/12/24	1	03/26/24	39					38	no	no	had distinctly injured kidney (pic2)	600		Slight	2	OGNSM-MUS-MLL-877	Y
+9M_67	9 months	Male	Kidney injury	Experimental	59	263	yellow	red	MKI.7	874	07/11/23	5746		03/07/24	03/12/24	2	03/27/24	37					37	no	no		1100		Yes	2	OGNSM-MUS-MLL-874	Y
+9F_61	9 months	Female	Kidney injury	Experimental	60	264	yellow	yellow	MKI.3	848	05/30/23	5684		03/07/24	03/12/24	1	03/26/24	30					25	no	no		750		No	2	OGNSM-MUS-MLL-848	Y
+9F_62	9 months	Female	Kidney injury	Experimental	61	265	white	yellow	MKI.8	849	05/30/23	5684		03/07/24	03/12/24	2	03/27/24	28					22	no	no	Adhesion of liver upper lobe, caused small tear. Large blood clot in WBC	500		slight	2	OGNSM-MUS-MLL-849	Y
+9F_63	9 months	Female	Kidney injury	Control	62	266	yellow	blue	MKI.3	853	05/30/23	5685		03/07/24	03/12/24	1	03/26/24	29					24	no	no	BM has thin white later (fat?) on top after centrifugation (pic4)	400		No	2	OGNSM-MUS-MLL-853	Y
+9F_64	9 months	Female	Kidney injury	Control	63	267	white	blue	MKI.8	854	05/30/23	5685		03/07/24	03/12/24	2	03/27/24	31					26	no	no		700		slight	2	OGNSM-MUS-MLL-854	Y
+9F_65	9 months	Female	Kidney injury	Control	64	268	orange	green	MKI.4	850	05/30/23	5684		03/07/24	03/12/24	1	03/26/24	41					34	no	no	Mass next to uterus, near fat + uterus inflamed (pic3); possibly enlarged spleen. WBC has small blood clot and also has thin white layer above BM after centrifugation.	450		Slight	2	OGNSM-MUS-MLL-850	Y
+9F_66	9 months	Female	Kidney injury	Control	65	269	blue	green	MKI.9	851	05/30/23	5684		03/07/24	03/12/24	2	03/27/24	37					32	no	no		800		slight	2	OGNSM-MUS-MLL-851	Y
+9F_67	9 months	Female	Kidney injury	Experimental	66	270	green	orange	MKI.4	852	05/30/23	5684		03/07/24	03/12/24	1	03/26/24	28					25	no	no		600		No	2	OGNSM-MUS-MLL-852	Y
+9F_68	9 months	Female	Kidney injury	Experimental	67	271	orange	orange	MKI.9	855	05/30/23	5685		03/07/24	03/12/24	2	03/27/24	35					29	no	no	Inflamed uterus and cystic ovaries.	700		No	2	OGNSM-MUS-MLL-855	Y
+9F_69	9 months	Female	Kidney injury	Experimental	68	272	blue	red	MKI.5	856	05/30/23	5685		03/07/24	03/12/24	1	03/26/24	32					27	no	no		650		No	2	OGNSM-MUS-MLL-856	Y
+9F_70	9 months	Female	Kidney injury	Experimental	69	273	green	red	MKI.10	857	05/30/23	5685		03/07/24	03/12/24	2	03/27/24	29					23	no	no		700		No	2	OGNSM-MUS-MLL-857	Y
+9F_71	9 months	Female	Kidney injury	Experimental	70	274	yellow	yellow	MKI.5	604	06/06/2023	5487		03/07/24	03/12/24	1	03/26/24	28					28	no	no		700		No	2	OGNSM-MUS-MLL-604	Y
+9F_72	9 months	Female	Kidney injury	Experimental	71	275	white	yellow	MKI.10	605	06/06/2023	5487		03/07/24	03/12/24	2	03/27/24	48					39	no	no		1000		No	2	OGNSM-MUS-MLL-605	Y
+9M_68	9 months	Male	Liver injury	Control	72	276	yellow			1035	10/3/23	6189	A	04/18/24				33														
+9M_69	9 months	Male	Liver injury	Control	73	277	yellow			1039	10/3/23	6190	B	04/18/24				33														
+9M_70	9 months	Male	Liver injury	Control	74	278	white			1040	10/3/23	6190	B	04/18/24				36														
+9M_71	9 months	Male	Liver injury	Experimental	75	279	orange			1041	10/3/23	6190	C	04/18/24				44														
+9M_72	9 months	Male	Liver injury	Experimental	76	280	blue			1042	10/3/23	6190	C	04/18/24				32														
+9M_73	9 months	Male	Liver injury	Experimental	77	281	white			1036	10/3/23	6189	D	04/18/24				37														
+9M_74	9 months	Male	Liver injury	Experimental	78	282	orange			1037	10/3/23	6189	D	04/18/24				41														
+9M_75	9 months	Male	Liver injury	Experimental	79	283	blue			1038	10/3/23	6189	D	04/18/24				38														
+9F_73	9 months	Female	Liver injury	Control	80	284	yellow			1047	10/3/23	6191	A	04/18/24				26														
+9F_74	9 months	Female	Liver injury	Control	81	285	white			1044	10/3/23	6192	B	04/18/24				30														
+9F_75	9 months	Female	Liver injury	Control	82	286	orange			1045	10/3/23	6192	B	04/18/24				29														
+9F_76	9 months	Female	Liver injury	Experimental	83	287	blue			1046	10/3/23	6192	C	04/18/24				32														
+9F_77	9 months	Female	Liver injury	Experimental	84	288	yellow			1043	10/3/23	6192	C	04/18/24				29														
+9F_78	9 months	Female	Liver injury	Experimental	85	289	white			1048	10/3/23	6191	D	04/18/24				26														
+9F_79	9 months	Female	Liver injury	Experimental	86	290	orange			1049	10/3/23	6191	D	04/18/24				26														
+9F_80	9 months	Female	Liver injury	Experimental	87	291	blue			1050	10/3/23	6191	D	04/18/24				30														

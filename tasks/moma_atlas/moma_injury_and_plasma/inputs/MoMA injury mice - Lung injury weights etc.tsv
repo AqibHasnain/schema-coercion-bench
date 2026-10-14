@@ -1,0 +1,84 @@
+												
+Sex	Group	Moma number	Eartag									
+Male	Control	221	white									
+Male	Control	240	yellow									
+Male	Control	241	white									
+Male	Experimental	244	orange									
+Male	Experimental	245	blue									
+Male	Experimental	246	green									
+Male	Experimental	227	green									
+Male	Experimental	228	green									
+Female	Control	229	yellow									
+Female	Control	230	white									
+Female	Experimental	233	green									
+Female	Control	232	yellow									
+Female	Control	231	white									
+Female	Experimental	234	orange (one line)									
+Female	Experimental	235	blue									
+Female	Experimental	236	green (two lines)									
+Female	Experimental	237	green									
+												
+Urine												
+	04/16/24 (0DPI .1A)										label y/n	label
+Moma number												
+221	yes										YES	221.1A
+240	yes										YES	240.1A
+241	yes										YES	241.1A
+244	some										YES	244.1A
+245	yes										YES	245.1A
+246	yes										YES	246.1A
+227	yes										YES	227.1A
+228	yes										YES	228.1A
+229	yes										YES	229.1A
+230	yes										YES	230.1A
+233	yes										YES	233.1A
+232	yes										YES	232.1A
+231	yes										YES	231.1A
+234	some										YES	234.1A
+235	yes										YES	235.1A
+236	yes										YES	236.1A
+237	yes										YES	237.1A
+												
+												
+Feces												
+	04/16/24 (0DPI .2A)										label y/n	label
+Moma number												
+221	yes										YES	221.2A
+240	yes										YES	240.2A
+241	yes										YES	241.2A
+244	yes										YES	244.2A
+245	yes										YES	245.2A
+246	yes										YES	246.2A
+227	yes										YES	227.2A
+228	yes										YES	228.2A
+229	yes										YES	229.2A
+230	yes										YES	230.2A
+233	yes										YES	233.2A
+232	yes										YES	232.2A
+231	yes										YES	231.2A
+234	yes										YES	234.2A
+235	yes										YES	235.2A
+236	yes										YES	236.2A
+237	yes										YES	237.2A
+												
+												
+Weight												
+	04/16/24											
+Moma number												
+221	52											
+240	51											
+241	41											
+244	54											
+245	49											
+246	50											
+227	51											
+228	51											
+229	35											
+230	35											
+233	30											
+232	40											
+231	25											
+234	26											
+235	36											
+236	29											
+237	35											

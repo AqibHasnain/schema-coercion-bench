@@ -1,0 +1,32 @@
+{
+  "id": "moma_atlas/moma_injury_and_plasma",
+  "model": "../../../models/pydantic_english.py",
+  "target_classes": null,
+  "inputs": [
+    "inputs/MoMA injury mice - Total info.tsv",
+    "inputs/MoMA injury mice - Kidney injury weights and urine.tsv",
+    "inputs/MoMA injury mice - Liver injury weights and urine.tsv",
+    "inputs/MoMA injury mice - Lung injury weights etc.tsv",
+    "inputs/MoMA injury mice - Muscle injury weights and urine.tsv",
+    "inputs/MoMA injury mice - Skin injury weights and urine.tsv",
+    "inputs/MoMA injury mice - Practice mice and pre-injury culled.tsv",
+    "inputs/MoMA injury molds - Full names.tsv",
+    "inputs/MoMA injury molds - Sheet1.tsv",
+    "inputs/MoMA injury molds - Sheet3.tsv",
+    "inputs/MoMA injury molds - Sheet4.tsv",
+    "inputs/MoMA plasma collection mice - Sheet1.tsv",
+    "inputs/MoMA plasma collection mice - Sheet2.tsv",
+    "inputs/MoMA plasma collection mice - Sheet3.tsv",
+    "inputs/MoMA plasma collection mice - Sheet4.tsv",
+    "inputs/Mouse_ID for Atlas - Benchling input calcs.tsv",
+    "inputs/Mouse_ID for Atlas - Plasma calc from whole blood.tsv",
+    "inputs/Mouse_ID for Atlas - Plasma calc.tsv",
+    "inputs/Mouse_ID for Atlas - Sheet4.tsv",
+    "inputs/Mouse_ID for Atlas - Sheet5.tsv",
+    "inputs/Mouse_ID for Atlas - Split1 - organs.tsv",
+    "inputs/Organ and biofluid list - Sheet1.tsv",
+    "inputs/Organ and biofluid list - Sheet2.tsv"
+  ],
+  "expected": [],
+  "notes": "Target classes were never specified; pydantic_english.py defines Organism, ProteomicsSample, Tissue, Organ and request models."
+}

@@ -1,0 +1,63 @@
+Code	Organ	Lung injury	Kidney injury	Liver injury	Skin injury	Muscle injury			
+X.1 (A--)	Urine	YES	YES	YES	YES	YES			
+X.2 (A--)	Feces	YES	YES	YES	YES	YES			
+X.3 (A--)	Plasma during injury	YES	YES	YES	YES	YES			
+X.4 (A--)	Plasma on collection	YES	YES	YES	YES	YES			
+X.5	Trachea	YES	NO	NO	NO	NO			Est collection date
+X.6	Esophagus	YES	NO	NO	NO	NO		Lung injury	03/18/24
+X.7	Lung	YES	NO	YES	NO	YES		Kidney injury	03/18/24
+X.8	Heart	YES	YES	YES	YES	YES		Liver injury	07/01/24
+X.9 (A-E?)	Brain	YES	YES	YES	YES	YES		Skin injury	04/08/24
+X.10	Spleen	YES	YES	YES	YES	YES		Muscle injury	03/06/24
+X.11	Adrenals	YES	YES	YES	YES	YES			
+X.12	Liver	YES	YES	YES	YES	YES		Tube not mold	
+X.13	Kidneys	YES	YES	YES	YES	YES			
+X.14 (A--)	Bone marrow	YES	YES	YES	YES	YES		Muscle injury muscle molds 	
+X.15	Fat	NO	NO	YES	NO	YES		3 per injured mouse (2 legs, 1 arm)	
+X.16	Eyes	NO	NO	NO	YES	NO		2 per control mouse (1 leg 1 arm)	
+X.17	Flat skin	NO	NO	YES	YES	NO			
+X.18	Rolled skin	NO	NO	YES	YES	NO			
+X.19	Muscle (R hind)	NO	NO	NO	NO	YES			
+X.19B	Muscle (L hind)	NO	NO	NO	NO	YES			
+X.19C	Muscle (Arm)	NO	NO	NO	NO	YES			
+X.20	Uterus/ovaries	NO	NO	YES	NO	NO			
+X.21	Testes	NO	NO	YES	NO	NO			
+X.22	Pituitary	NO	NO	YES	NO	NO			
+X.23	Thyroid	NO	NO	YES	NO	NO			
+X.24	Stomach	NO	NO	YES	NO	NO			
+X.25	Small intestine	NO	NO	YES	NO	NO			
+X.26	Large intestine	NO	NO	YES	NO	NO			
+X.27	Pancreas	NO	NO	YES	NO	NO			
+X.28	RBC/WBC	YES	YES	YES	YES	YES			
+X.29 (A--)	Bones	NO	NO	YES	NO	YES			
+X.30	Estrus	YES	YES	YES	YES	YES			
+									
+									
+									
+									
+									
+									
+									
+Number of molds needed:									
+		Lung injury	Kidney injury	Liver injury	Skin injury	Muscle injury		Total	
+	Trachea	18	NO	NO	NO	NO		18	
+	Esophagus	18	NO	NO	NO	NO		18	
+	Lung	18	NO	16	NO	16		50	
+	Heart	18	20	16	17	16		87	
+	Brain	18	20	16	17	16		87	
+	Spleen	18	20	16	17	16		87	
+	Liver	18	20	16	17	16		87	
+	Kidneys	18	20	16	17	16		87	
+	Flat skin	NO	NO	16	17	NO		33	
+	Rolled skin	NO	NO	16	17	NO		33	
+	Muscle (R hind)	NO	NO	16	NO	16		32	
+	Muscle (L hind)	NO	NO	NO	NO	10		10	
+	Muscle (Arm)	NO	NO	NO	NO	16		16	
+	Uterus/ovaries	NO	NO	16	NO	NO		16	
+	Testes	NO	NO	16	NO	NO		16	
+	Stomach	NO	NO	16	NO	NO		16	
+	Small intestine	NO	NO	16	NO	NO		16	
+	Large intestine	NO	NO	16	NO	NO		16	
+	Pancreas	NO	NO	16	NO	NO		16	
+									
+					back and front skin?			741	

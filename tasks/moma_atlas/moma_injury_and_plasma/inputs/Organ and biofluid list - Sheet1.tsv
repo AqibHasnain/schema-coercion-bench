@@ -1,0 +1,46 @@
+Organ	Biofluid	Organ for tissue registration
+Adrenal	Estrus cycle	Adrenal
+Arm bone 2 with BM	Red blood fraction	Bladder
+Arm bone without BM	Blood plasma BAI-1	Cartilage
+Bladder	Blood plasma BAI-2	Cerebellum
+Cartilage	Blood plasma BAI-3	Esophagus
+Cerebellum	Blood plasma BAI-4	Eye
+Eye	Blood plasma BAI-5	Fat
+Fat	Blood plasma - Seer	Femur without BM
+Fat 2	Bone marrow	Frontal cortex 
+Frontal cortex 	Urine	Gall bladder
+Gall bladder	Faeces	Heart
+Heart		Hippocampus
+Hippocampus		Kidney
+Kidney		Large intestine
+Large intestine		LHS Brain
+Leg bone 2 without BM		Liver
+Leg bone without BM		Lung
+LHS Brain		Mammary gland
+Liver		Midbrain
+Lung		Muscle
+Mammary gland		Olfactory Bulb
+Midbrain		Ovaries
+Muscle		Pancreas
+Muscle  2		Parietal cortex
+Oesophagus		Pituitary
+Olfactory Bulb		Salivary glands
+Ovaries		Skin
+Pancreas		Skull cap
+Parietal cortex		Small intestine
+Pituitary		Spinal cord
+Salivary glands		Spleen
+Skin A		Stomach
+Skin flat B		Testes
+Skull cap A		Thymus
+Skull cap B		Thyroid
+Small intestine		Tongue
+Spinal cord		Trachea
+Spleen		Ulna with bone marrow
+Stomach A		Ulna without bone marrow
+Stomach B		Uterus
+Testes		
+Thymus		
+Thyroid		
+Tongue		
+Trachea		

@@ -1,0 +1,44 @@
+Code	Name	Tube or mold		Muscle injury?	Kidney injury	Biofluid?
+X.1 DOD	Urine	Tube	X.1 DOD_Urine	Y	Y	Y
+X.2 DOD	Feces	Tube	X.2 DOD_Feces	Y	Y	Y
+X.4A	Plasma on collection (majority)	Tube	X.4A_Plasma on collection (majority)	Y	Y	Y
+X.4B	Plasma on collection (20ul)	Tube	X.4B_Plasma on collection (20ul)	Y	Y	Y
+X.4C	Plasma on collection (20ul)	Tube	X.4C_Plasma on collection (20ul)	Y	Y	Y
+X.5	Trachea		X.5_Trachea			
+X.6	Esophagus		X.6_Esophagus			
+X.7	Lung	Mold	X.7_Lung	Y		
+X.8	Heart	Mold	X.8_Heart	Y	Y	
+X.9A	LHS Brain	Mold	X.9A_LHS Brain	Y	Y	
+X.9B_Brain	Hippocampus	Tube	X.9B_Brain_Hippocampus	Y	Y	
+X.9C_Brain	Frontal Cortex	Tube	X.9C_Brain_Frontal Cortex	Y	Y	
+X.9D_Brain	Parietal Cortex	Tube	X.9D_Brain_Parietal Cortex	Y	Y	
+X.9E_Brain	Midbrain	Tube	X.9E_Brain_Midbrain	Y	Y	
+X.9F_Brain	Olfactory Bulb	Tube	X.9F_Brain_Olfactory Bulb	Y	Y	
+X.9G_Brain	Cerebellum	Tube	X.9G_Brain_Cerebellum	Y	Y	
+X.10	Spleen	Mold	X.10_Spleen	Y	Y	
+X.11	Adrenal gland	Tube	X.11_Adrenal gland	Y	Y	
+X.12	Liver	Mold	X.12_Liver	Y	Y	
+X.13	Kidney	Mold	X.13_Kidney	Y	Y	
+X.14A	Bone Marrow - Injured leg (R hind)	Tube	X.14A_Bone Marrow - Injured leg (R hind)	Y	Y	
+X.14B	Bone Marrow - Uninjured leg (L hind)	Tube	X.14B_Bone Marrow - Uninjured leg (L hind)	Y		
+X.14C	Bone Marrow - Uninjured Arms	Tube	X.14C_Bone Marrow - Uninjured Arms	Y		
+X.15	Fat	Tube	X.15_Fat	Y		
+X.16	Eyes		X.16_Eyes			
+X.17	Flat skin		X.17_Flat skin			
+X.18	Rolled skin		X.18_Rolled skin			
+X.19	Muscle (R hind)	Mold	X.19_Muscle (R hind)	Y		
+X.19B	Muscle (L hind)	Mold	X.19B_Muscle (L hind)	Y		
+X.19C	Muscle (Arm)	Mold	X.19C_Muscle (Arm)	Y		
+X.20	Uterus/ovaries		X.20_Uterus/ovaries			
+X.21	Testes		X.21_Testes			
+X.22	Pituitary		X.22_Pituitary			
+X.23	Thyroid		X.23_Thyroid			
+X.24	Stomach		X.24_Stomach			
+X.25	Small intestine		X.25_Small intestine			
+X.26	Large intestine		X.26_Large intestine			
+X.27	Pancreas		X.27_Pancreas			
+X.28	RBC/WBC	Tube	X.28_RBC/WBC	Y	Y	Y
+X.29A	Bone - Injured leg (R hind)	Tube	X.29A_Bone - Injured leg (R hind)	Y		
+X.29B	Bone - Uninjured leg (L hind)	Tube	X.29B_Bone - Uninjured leg (L hind)	Y		
+X.29C	Bone - Uninjured Arms	Tube	X.29C_Bone - Uninjured Arms	Y		
+X.30	Estrus	Tube	X.30_Estrus	Y	Y	Y

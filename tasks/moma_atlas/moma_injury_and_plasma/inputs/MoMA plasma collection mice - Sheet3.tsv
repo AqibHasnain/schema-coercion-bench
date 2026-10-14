@@ -1,0 +1,304 @@
+Mouse number	Benchling ID 	Number of aliquots of 20ul aliquots plasma collected						
+49	OGNSM-MUS-MLL-617	2		49.1	49.1_20ul_plasma	49.4	49.4_Urine	238
+50	OGNSM-MUS-MLL-618	2		49.2	49.2_20ul_plasma	50.4	50.4_Urine	192
+51	OGNSM-MUS-MLL-619	2		50.1	50.1_20ul_plasma	51.4	51.4_Urine	238
+52	OGNSM-MUS-MLL-620	2		50.2	50.2_20ul_plasma	52.4	52.4_Urine	238
+53	OGNSM-MUS-MLL-621	2		51.1	51.1_20ul_plasma	53.4	53.4_Urine	238
+54	OGNSM-MUS-MLL-622	2		51.2	51.2_20ul_plasma	54.4	54.4_Urine	99
+55	OGNSM-MUS-MLL-623	2		52.1	52.1_20ul_plasma	55.4	55.4_Urine	215
+56	OGNSM-MUS-MLL-624	2		52.2	52.2_20ul_plasma	56.4	56.4_Urine	192
+57	OGNSM-MUS-MLL-625	2		53.1	53.1_20ul_plasma	57.4	57.4_Urine	262
+58	OGNSM-MUS-MLL-626	2		53.2	53.2_20ul_plasma	58.4	58.4_Urine	192
+59	OGNSM-MUS-MLL-627	2		54.1	54.1_20ul_plasma	59.4	59.4_Urine	285
+60	OGNSM-MUS-MLL-628	2		54.2	54.2_20ul_plasma	60.4	60.4_Urine	215
+61	OGNSM-MUS-MLL-629	2		55.1	55.1_20ul_plasma	61.4	61.4_Urine	238
+62	OGNSM-MUS-MLL-630	2		55.2	55.2_20ul_plasma	62.4	62.4_Urine	285
+63	OGNSM-MUS-MLL-631	2		56.1	56.1_20ul_plasma	63.4	63.4_Urine	238
+64	OGNSM-MUS-MLL-632	2		56.2	56.2_20ul_plasma	64.4	64.4_Urine	215
+65	OGNSM-MUS-MLL-633	2		57.1	57.1_20ul_plasma	65.4	65.4_Urine	192
+66	OGNSM-MUS-MLL-634	2		57.2	57.2_20ul_plasma	66.4	66.4_Urine	215
+67	OGNSM-MUS-MLL-635	0		58.1	58.1_20ul_plasma	67.4	67.4_Urine	145
+68	OGNSM-MUS-MLL-636	2		58.2	58.2_20ul_plasma	68.4	68.4_Urine	72
+69	OGNSM-MUS-MLL-637	1		59.1	59.1_20ul_plasma	69.4	69.4_Urine	145
+70	OGNSM-MUS-MLL-638	2		59.2	59.2_20ul_plasma	70.4	70.4_Urine	169
+71	OGNSM-MUS-MLL-639	2		60.1	60.1_20ul_plasma	71.4	71.4_Urine	122
+72	OGNSM-MUS-MLL-640	2		60.2	60.2_20ul_plasma	72.4	72.4_Urine	192
+73	OGNSM-MUS-MLL-641	2		61.1	61.1_20ul_plasma	73.4	73.4_Urine	238
+74	OGNSM-MUS-MLL-642	2		61.2	61.2_20ul_plasma	74.4	74.4_Urine	99
+75	OGNSM-MUS-MLL-643	2		62.1	62.1_20ul_plasma	75.4	75.4_Urine	145
+76	OGNSM-MUS-MLL-644	2		62.2	62.2_20ul_plasma	76.4	76.4_Urine	145
+77	OGNSM-MUS-MLL-645	2		63.1	63.1_20ul_plasma	77.4	77.4_Urine	192
+78	OGNSM-MUS-MLL-646	2		63.2	63.2_20ul_plasma	78.4	78.4_Urine	169
+79	OGNSM-MUS-MLL-647	2		64.1	64.1_20ul_plasma	79.4	79.4_Urine	192
+80	OGNSM-MUS-MLL-648	2		64.2	64.2_20ul_plasma	80.4	80.4_Urine	145
+81	OGNSM-MUS-MLL-649	2		65.1	65.1_20ul_plasma	81.4	81.4_Urine	145
+82	OGNSM-MUS-MLL-650	2		65.2	65.2_20ul_plasma	82.4	82.4_Urine	145
+83	OGNSM-MUS-MLL-651	2		66.1	66.1_20ul_plasma	83.4	83.4_Urine	99
+84	OGNSM-MUS-MLL-652	2		66.2	66.2_20ul_plasma	84.4	84.4_Urine	145
+85	OGNSM-MUS-MLL-653	2		68.1	68.1_20ul_plasma	85.4	85.4_Urine	99
+86	OGNSM-MUS-MLL-654	2		68.2	68.2_20ul_plasma	86.4	86.4_Urine	145
+87	OGNSM-MUS-MLL-655	2		69.1	69.1_20ul_plasma	87.4	87.4_Urine	145
+88	OGNSM-MUS-MLL-656	2		70.1	70.1_20ul_plasma	88.4	88.4_Urine	122
+89	OGNSM-MUS-MLL-657	2		70.2	70.2_20ul_plasma	89.4	89.4_Urine	145
+90	OGNSM-MUS-MLL-658	2		71.1	71.1_20ul_plasma	90.4	90.4_Urine	145
+91	OGNSM-MUS-MLL-659	2		71.2	71.2_20ul_plasma	91.4	91.4_Urine	192
+92	OGNSM-MUS-MLL-660	2		72.1	72.1_20ul_plasma	92.4	92.4_Urine	122
+93	OGNSM-MUS-MLL-661	2		72.2	72.2_20ul_plasma	93.4	93.4_Urine	145
+94	OGNSM-MUS-MLL-662	2		73.1	73.1_20ul_plasma	94.4	94.4_Urine	99
+95	OGNSM-MUS-MLL-663	2		73.2	73.2_20ul_plasma	95.4	95.4_Urine	169
+96	OGNSM-MUS-MLL-664	2		74.1	74.1_20ul_plasma	96.4	96.4_Urine	145
+97	OGNSM-MUS-MLL-665	2		74.2	74.2_20ul_plasma	97.4	97.4_Urine	192
+98	OGNSM-MUS-MLL-666	2		75.1	75.1_20ul_plasma	98.4	98.4_Urine	99
+99	OGNSM-MUS-MLL-667	2		75.2	75.2_20ul_plasma	99.4	99.4_Urine	145
+100	OGNSM-MUS-MLL-668	2		76.1	76.1_20ul_plasma	100.4	100.4_Urine	378
+101	OGNSM-MUS-MLL-669	2		76.2	76.2_20ul_plasma	101.4	101.4_Urine	145
+102	OGNSM-MUS-MLL-670	2		77.1	77.1_20ul_plasma	102.4	102.4_Urine	238
+103	OGNSM-MUS-MLL-671	2		77.2	77.2_20ul_plasma	103.4	103.4_Urine	378
+104	OGNSM-MUS-MLL-672	2		78.1	78.1_20ul_plasma	104.4	104.4_Urine	378
+105	OGNSM-MUS-MLL-673	2		78.2	78.2_20ul_plasma	105.4	105.4_Urine	471
+106	OGNSM-MUS-MLL-674	2		79.1	79.1_20ul_plasma	106.4	106.4_Urine	285
+107	OGNSM-MUS-MLL-675	2		79.2	79.2_20ul_plasma	107.4	107.4_Urine	238
+108	OGNSM-MUS-MLL-676	2		80.1	80.1_20ul_plasma	108.4	108.4_Urine	378
+109	OGNSM-MUS-MLL-677	2		80.2	80.2_20ul_plasma	109.4	109.4_Urine	145
+110	OGNSM-MUS-MLL-678	2		81.1	81.1_20ul_plasma	110.4	110.4_Urine	331
+111	OGNSM-MUS-MLL-679	2		81.2	81.2_20ul_plasma	111.4	111.4_Urine	331
+112	OGNSM-MUS-MLL-680	2		82.1	82.1_20ul_plasma	112.4	112.4_Urine	378
+113	OGNSM-MUS-MLL-681	2		82.2	82.2_20ul_plasma	113.4	113.4_Urine	262
+114	OGNSM-MUS-MLL-682	2		83.1	83.1_20ul_plasma	114.4	114.4_Urine	471
+115	OGNSM-MUS-MLL-683	2		83.2	83.2_20ul_plasma	115.4	115.4_Urine	331
+116	OGNSM-MUS-MLL-684	2		84.1	84.1_20ul_plasma	116.4	116.4_Urine	331
+117	OGNSM-MUS-MLL-685	2		84.2	84.2_20ul_plasma	117.4	117.4_Urine	378
+118	OGNSM-MUS-MLL-686	2		85.1	85.1_20ul_plasma	118.4	118.4_Urine	238
+119	OGNSM-MUS-MLL-687	2		85.2	85.2_20ul_plasma	119.4	119.4_Urine	238
+120	OGNSM-MUS-MLL-688	2		86.1	86.1_20ul_plasma	120.4	120.4_Urine	Unknown
+121	OGNSM-MUS-MLL-689	2		86.2	86.2_20ul_plasma	121.4	121.4_Urine	238
+122	OGNSM-MUS-MLL-690	2		87.1	87.1_20ul_plasma	122.4	122.4_Urine	285
+123	OGNSM-MUS-MLL-691	2		87.2	87.2_20ul_plasma	123.4	123.4_Urine	378
+124	OGNSM-MUS-MLL-692	2		88.1	88.1_20ul_plasma	124.4	124.4_Urine	99
+125	OGNSM-MUS-MLL-693	2		88.2	88.2_20ul_plasma	125.4	125.4_Urine	378
+126	OGNSM-MUS-MLL-694	2		89.1	89.1_20ul_plasma	126.4	126.4_Urine	99
+127	OGNSM-MUS-MLL-695	2		89.2	89.2_20ul_plasma	127.4	127.4_Urine	26
+128	OGNSM-MUS-MLL-696	1		90.1	90.1_20ul_plasma	128.4	128.4_Urine	192
+129	OGNSM-MUS-MLL-697	2		90.2	90.2_20ul_plasma	129.4	129.4_Urine	192
+130	OGNSM-MUS-MLL-698	2		91.1	91.1_20ul_plasma	130.4	130.4_Urine	285
+131	OGNSM-MUS-MLL-699	2		91.2	91.2_20ul_plasma	131.4	131.4_Urine	145
+132	OGNSM-MUS-MLL-700	2		92.1	92.1_20ul_plasma	132.4	132.4_Urine	99
+133	OGNSM-MUS-MLL-701	2		92.2	92.2_20ul_plasma	133.4	133.4_Urine	99
+134	OGNSM-MUS-MLL-702	2		93.1	93.1_20ul_plasma	134.4	134.4_Urine	52
+135	OGNSM-MUS-MLL-703	2		93.2	93.2_20ul_plasma	135.4	135.4_Urine	145
+136	OGNSM-MUS-MLL-704	2		94.1	94.1_20ul_plasma	136.4	136.4_Urine	145
+137	OGNSM-MUS-MLL-705	2		94.2	94.2_20ul_plasma	137.4	137.4_Urine	192
+138	OGNSM-MUS-MLL-706	2		95.1	95.1_20ul_plasma	138.4	138.4_Urine	192
+139	OGNSM-MUS-MLL-707	2		95.2	95.2_20ul_plasma	139.4	139.4_Urine	99
+140	OGNSM-MUS-MLL-708	2		96.1	96.1_20ul_plasma	140.4	140.4_Urine	192
+141	OGNSM-MUS-MLL-709	2		96.2	96.2_20ul_plasma	141.4	141.4_Urine	119
+142	OGNSM-MUS-MLL-710	1		97.1	97.1_20ul_plasma	142.4	142.4_Urine	99
+143	OGNSM-MUS-MLL-711	2		97.2	97.2_20ul_plasma	143.4	143.4_Urine	238
+144	OGNSM-MUS-MLL-712	2		98.1	98.1_20ul_plasma	144.4	144.4_Urine	99
+145	OGNSM-MUS-MLL-713	2		98.2	98.2_20ul_plasma	145.4	145.4_Urine	192
+146	OGNSM-MUS-MLL-714	2		99.1	99.1_20ul_plasma	146.4	146.4_Urine	308
+147	OGNSM-MUS-MLL-715	2		99.2	99.2_20ul_plasma	147.4	147.4_Urine	192
+148	OGNSM-MUS-MLL-716	2		100.1	100.1_20ul_plasma	148.4	148.4_Urine	285
+149	OGNSM-MUS-MLL-717	2		100.2	100.2_20ul_plasma	149.4	149.4_Urine	192
+150	OGNSM-MUS-MLL-718	2		101.1	101.1_20ul_plasma	150.4	150.4_Urine	192
+151	OGNSM-MUS-MLL-719	2		101.2	101.2_20ul_plasma	151.4	151.4_Urine	99
+152	OGNSM-MUS-MLL-720	2		102.1	102.1_20ul_plasma	152.4	152.4_Urine	331
+153	OGNSM-MUS-MLL-721	2		102.2	102.2_20ul_plasma	153.4	153.4_Urine	238
+154	OGNSM-MUS-MLL-722	2		103.1	103.1_20ul_plasma	154.4	154.4_Urine	145
+155	OGNSM-MUS-MLL-723	2		103.2	103.2_20ul_plasma	155.4	155.4_Urine	331
+156	OGNSM-MUS-MLL-724	2		104.1	104.1_20ul_plasma	156.4	156.4_Urine	378
+157	OGNSM-MUS-MLL-725	2		104.2	104.2_20ul_plasma	157.4	157.4_Urine	378
+158	OGNSM-MUS-MLL-726	2		105.1	105.1_20ul_plasma	158.4	158.4_Urine	517
+159	OGNSM-MUS-MLL-727	2		105.2	105.2_20ul_plasma	159.4	159.4_Urine	424
+160	OGNSM-MUS-MLL-728	2		106.1	106.1_20ul_plasma	160.4	160.4_Urine	238
+161	OGNSM-MUS-MLL-729	2		106.2	106.2_20ul_plasma	161.4	161.4_Urine	238
+162	OGNSM-MUS-MLL-730	2		107.1	107.1_20ul_plasma	162.4	162.4_Urine	471
+163	OGNSM-MUS-MLL-731	2		107.2	107.2_20ul_plasma	163.4	163.4_Urine	424
+164	OGNSM-MUS-MLL-732	2		108.1	108.1_20ul_plasma	164.4	164.4_Urine	169
+165	OGNSM-MUS-MLL-733	2		108.2	108.2_20ul_plasma	165.4	165.4_Urine	378
+166	OGNSM-MUS-MLL-734	2		109.1	109.1_20ul_plasma	166.4	166.4_Urine	331
+167	OGNSM-MUS-MLL-735	2		109.2	109.2_20ul_plasma	167.4	167.4_Urine	378
+168	OGNSM-MUS-MLL-736	2		110.1	110.1_20ul_plasma	168.4	168.4_Urine	Unknown
+169	OGNSM-MUS-MLL-737	2		110.2	110.2_20ul_plasma	169.4	169.4_Urine	192
+170	OGNSM-MUS-MLL-738	2		111.1	111.1_20ul_plasma	170.4	170.4_Urine	471
+171	OGNSM-MUS-MLL-739	2		111.2	111.2_20ul_plasma	171.4	171.4_Urine	Unknown
+172	OGNSM-MUS-MLL-740	2		112.1	112.1_20ul_plasma	172.4	172.4_Urine	424
+173	OGNSM-MUS-MLL-741	2		112.2	112.2_20ul_plasma	173.4	173.4_Urine	192
+174	OGNSM-MUS-MLL-742	2		113.1	113.1_20ul_plasma	174.4	174.4_Urine	378
+175	OGNSM-MUS-MLL-743	2		113.2	113.2_20ul_plasma	175.4	175.4_Urine	238
+176	OGNSM-MUS-MLL-744	2		114.1	114.1_20ul_plasma	176.4	176.4_Urine	238
+177	OGNSM-MUS-MLL-745	2		114.2	114.2_20ul_plasma	177.4	177.4_Urine	238
+178	OGNSM-MUS-MLL-746	2		115.1	115.1_20ul_plasma	178.4	178.4_Urine	238
+179	OGNSM-MUS-MLL-747	2		115.2	115.2_20ul_plasma	179.4	179.4_Urine	72
+180	OGNSM-MUS-MLL-748	1		116.1	116.1_20ul_plasma	180.4	180.4_Urine	192
+181	OGNSM-MUS-MLL-749	2		116.2	116.2_20ul_plasma	181.4	181.4_Urine	331
+182	OGNSM-MUS-MLL-750	2		117.1	117.1_20ul_plasma	182.4	182.4_Urine	99
+183	OGNSM-MUS-MLL-751	2		117.2	117.2_20ul_plasma	183.4	183.4_Urine	192
+184	OGNSM-MUS-MLL-752	2		118.1	118.1_20ul_plasma	184.4	184.4_Urine	145
+185	OGNSM-MUS-MLL-753	2		118.2	118.2_20ul_plasma	185.4	185.4_Urine	238
+186	OGNSM-MUS-MLL-754	2		119.1	119.1_20ul_plasma	186.4	186.4_Urine	285
+187	OGNSM-MUS-MLL-755	2		119.2	119.2_20ul_plasma	187.4	187.4_Urine	238
+188	OGNSM-MUS-MLL-756	2		120.1	120.1_20ul_plasma	188.4	188.4_Urine	192
+189	OGNSM-MUS-MLL-757	2		120.2	120.2_20ul_plasma	189.4	189.4_Urine	238
+190	OGNSM-MUS-MLL-758	2		121.1	121.1_20ul_plasma	190.4	190.4_Urine	99
+191	OGNSM-MUS-MLL-759	2		121.2	121.2_20ul_plasma	191.4	191.4_Urine	238
+192	OGNSM-MUS-MLL-760	2		122.1	122.1_20ul_plasma	192.4	192.4_Urine	119
+193	OGNSM-MUS-MLL-761	0		122.2	122.2_20ul_plasma	193.4	193.4_Urine	99
+194	OGNSM-MUS-MLL-762	1		123.1	123.1_20ul_plasma	194.4	194.4_Urine	238
+195	OGNSM-MUS-MLL-763	2		123.2	123.2_20ul_plasma	195.4	195.4_Urine	262
+196	OGNSM-MUS-MLL-764	2		124.1	124.1_20ul_plasma	196.4	196.4_Urine	145
+197	OGNSM-MUS-MLL-765	2		124.2	124.2_20ul_plasma	197.4	197.4_Urine	238
+198	OGNSM-MUS-MLL-766	2		125.1	125.1_20ul_plasma	198.4	198.4_Urine	517
+199	OGNSM-MUS-MLL-767	2		125.2	125.2_20ul_plasma	199.4	199.4_Urine	192
+200	OGNSM-MUS-MLL-768	2		126.1	126.1_20ul_plasma	200.4	200.4_Urine	313
+201	OGNSM-MUS-MLL-769	2		126.2	126.2_20ul_plasma	201.4	201.4_Urine	238
+202	OGNSM-MUS-MLL-770	2		127.1	127.1_20ul_plasma	202.4	202.4_Urine	285
+203	OGNSM-MUS-MLL-771	2		127.2	127.2_20ul_plasma	203.4	203.4_Urine	
+204	OGNSM-MUS-MLL-772	2		128.1	128.1_20ul_plasma	204.4	204.4_Urine	
+				129.1	129.1_20ul_plasma			
+		301		129.2	129.2_20ul_plasma			
+				130.1	130.1_20ul_plasma			
+				130.2	130.2_20ul_plasma			
+	155			131.1	131.1_20ul_plasma			
+				131.2	131.2_20ul_plasma			
+				132.1	132.1_20ul_plasma			
+				132.2	132.2_20ul_plasma			
+				133.1	133.1_20ul_plasma			
+				133.2	133.2_20ul_plasma			
+				134.1	134.1_20ul_plasma			
+				134.2	134.2_20ul_plasma			
+				135.1	135.1_20ul_plasma			
+				135.2	135.2_20ul_plasma			
+				136.1	136.1_20ul_plasma			
+				136.2	136.2_20ul_plasma			
+				137.1	137.1_20ul_plasma			
+				137.2	137.2_20ul_plasma			
+				138.1	138.1_20ul_plasma			
+				138.2	138.2_20ul_plasma			
+				139.1	139.1_20ul_plasma			
+				139.2	139.2_20ul_plasma			
+				140.1	140.1_20ul_plasma			
+				140.2	140.2_20ul_plasma			
+				141.1	141.1_20ul_plasma			
+				141.2	141.2_20ul_plasma			
+				142.1	142.1_20ul_plasma			
+				143.1	143.1_20ul_plasma			
+				143.2	143.2_20ul_plasma			
+				144.1	144.1_20ul_plasma			
+				144.2	144.2_20ul_plasma			
+				145.1	145.1_20ul_plasma			
+				145.2	145.2_20ul_plasma			
+				146.1	146.1_20ul_plasma			
+				146.2	146.2_20ul_plasma			
+				147.1	147.1_20ul_plasma			
+				147.2	147.2_20ul_plasma			
+				148.1	148.1_20ul_plasma			
+				148.2	148.2_20ul_plasma			
+				149.1	149.1_20ul_plasma			
+				149.2	149.2_20ul_plasma			
+				150.1	150.1_20ul_plasma			
+				150.2	150.2_20ul_plasma			
+				151.1	151.1_20ul_plasma			
+				151.2	151.2_20ul_plasma			
+				152.1	152.1_20ul_plasma			
+				152.2	152.2_20ul_plasma			
+				153.1	153.1_20ul_plasma			
+				153.2	153.2_20ul_plasma			
+				154.1	154.1_20ul_plasma			
+				154.2	154.2_20ul_plasma			
+				155.1	155.1_20ul_plasma			
+				155.2	155.2_20ul_plasma			
+				156.1	156.1_20ul_plasma			
+				156.2	156.2_20ul_plasma			
+				157.1	157.1_20ul_plasma			
+				157.2	157.2_20ul_plasma			
+				158.1	158.1_20ul_plasma			
+				158.2	158.2_20ul_plasma			
+				159.1	159.1_20ul_plasma			
+				159.2	159.2_20ul_plasma			
+				160.1	160.1_20ul_plasma			
+				160.2	160.2_20ul_plasma			
+				161.1	161.1_20ul_plasma			
+				161.2	161.2_20ul_plasma			
+				162.1	162.1_20ul_plasma			
+				162.2	162.2_20ul_plasma			
+				163.1	163.1_20ul_plasma			
+				163.2	163.2_20ul_plasma			
+				164.1	164.1_20ul_plasma			
+				164.2	164.2_20ul_plasma			
+				165.1	165.1_20ul_plasma			
+				165.2	165.2_20ul_plasma			
+				166.1	166.1_20ul_plasma			
+				166.2	166.2_20ul_plasma			
+				167.1	167.1_20ul_plasma			
+				167.2	167.2_20ul_plasma			
+				168.1	168.1_20ul_plasma			
+				168.2	168.2_20ul_plasma			
+				169.1	169.1_20ul_plasma			
+				169.2	169.2_20ul_plasma			
+				170.1	170.1_20ul_plasma			
+				170.2	170.2_20ul_plasma			
+				171.1	171.1_20ul_plasma			
+				171.2	171.2_20ul_plasma			
+				172.1	172.1_20ul_plasma			
+				172.2	172.2_20ul_plasma			
+				173.1	173.1_20ul_plasma			
+				173.2	173.2_20ul_plasma			
+				174.1	174.1_20ul_plasma			
+				174.2	174.2_20ul_plasma			
+				175.1	175.1_20ul_plasma			
+				175.2	175.2_20ul_plasma			
+				176.1	176.1_20ul_plasma			
+				176.2	176.2_20ul_plasma			
+				177.1	177.1_20ul_plasma			
+				177.2	177.2_20ul_plasma			
+				178.1	178.1_20ul_plasma			
+				178.2	178.2_20ul_plasma			
+				179.1	179.1_20ul_plasma			
+				179.2	179.2_20ul_plasma			
+				180.1	180.1_20ul_plasma			
+				181.1	181.1_20ul_plasma			
+				181.2	181.2_20ul_plasma			
+				182.1	182.1_20ul_plasma			
+				182.2	182.2_20ul_plasma			
+				183.1	183.1_20ul_plasma			
+				183.2	183.2_20ul_plasma			
+				184.1	184.1_20ul_plasma			
+				184.2	184.2_20ul_plasma			
+				185.1	185.1_20ul_plasma			
+				185.2	185.2_20ul_plasma			
+				186.1	186.1_20ul_plasma			
+				186.2	186.2_20ul_plasma			
+				187.1	187.1_20ul_plasma			
+				187.2	187.2_20ul_plasma			
+				188.1	188.1_20ul_plasma			
+				188.2	188.2_20ul_plasma			
+				189.1	189.1_20ul_plasma			
+				189.2	189.2_20ul_plasma			
+				190.1	190.1_20ul_plasma			
+				190.2	190.2_20ul_plasma			
+				191.1	191.1_20ul_plasma			
+				191.2	191.2_20ul_plasma			
+				192.1	192.1_20ul_plasma			
+				192.2	192.2_20ul_plasma			
+				194.1	194.1_20ul_plasma			
+				195.1	195.1_20ul_plasma			
+				195.2	195.2_20ul_plasma			
+				196.1	196.1_20ul_plasma			
+				196.2	196.2_20ul_plasma			
+				197.1	197.1_20ul_plasma			
+				197.2	197.2_20ul_plasma			
+				198.1	198.1_20ul_plasma			
+				198.2	198.2_20ul_plasma			
+				199.1	199.1_20ul_plasma			
+				199.2	199.2_20ul_plasma			
+				200.1	200.1_20ul_plasma			
+				200.2	200.2_20ul_plasma			
+				201.1	201.1_20ul_plasma			
+				201.2	201.2_20ul_plasma			
+				202.1	202.1_20ul_plasma			
+				202.2	202.2_20ul_plasma			
+				203.1	203.1_20ul_plasma			
+				203.2	203.2_20ul_plasma			
+				204.1	204.1_20ul_plasma			
+				204.2	204.2_20ul_plasma			

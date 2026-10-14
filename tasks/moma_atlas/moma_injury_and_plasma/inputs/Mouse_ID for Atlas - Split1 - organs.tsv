@@ -1,0 +1,49 @@
+Mouse ID	Age	Sex	Replicate	Mouse number	Tag number	DOB	gui_sid	Cage SID	Box label	Collection day	Collection date	Tube label colour	Order on day	Weight (g) (11/17/23)	Urine collected?	Notes	Weight on collection day	Whole Blood Collected	Seer blood plasma collected (uL)	Hemolysis?	Number of aliquots of 10ul plasma collected	Benchling ID 	Seer	Split1 - Organ collection
+3M_1	3 month	Male	1	1	92	8/29/2023	330		1:3M_1	6	11/30/23	Blue	5	31	yes		30g	0.9mL	250		5	OGNSM-MUS-MLL-330		8 days, 6 samples per day
+3M_2	3 month	Male	2	2	93	8/29/2023	331		2:3M_2	5	11/29/23	Green	6	29	yes	1) L Kidney was split in half transversely (horizontally)	31g	800ul	300		5 (20ul)	OGNSM-MUS-MLL-331		
+3M_3	3 month	Male	3	3	94	8/29/2023	332		3:3M_3	8	12/04/23	Orange	1	29	yes	1) Right adrenal gland is missing	33g	0.9mL	400		5	OGNSM-MUS-MLL-332		9m then 18m then 3m
+3M_4	3 month	Male	4	4	95	8/29/2023	333		4:3M_4	2	11/21/23	Green	2	34	yes	1) Bladder was on the floor briefly 2) Organ appears "deviated" from normal 3) Lid came off trachea while in liquid nitrogen	33g	0.9mL	300		5 (20ul)	OGNSM-MUS-MLL-333		
+3M_5	3 month	Male	5	5	96	8/29/2023	334		5:3M_5	7	12/1/23	Green	3	29	yes		29g	0.9mL	370		5	OGNSM-MUS-MLL-334		
+3M_6	3 month	Male	6	6	97	8/29/2023	335		6:3M_6	1	11/20/23	Blue	4	32	yes		32g	1.1mL	400	(+ hemolyzed)	5	OGNSM-MUS-MLL-335		
+3M_7	3 month	Male	7	7	98	8/29/2023	336		7:3M_7	4	11/28/23	Orange	5	35	yes	1) Small and large intestnimal label swapped but corrected with pen mark	36g	1mL	285		5 (20ul)	OGNSM-MUS-MLL-336		
+3M_8	3 month	Male	8	8	99	8/29/2023	337		8:3M_8	3	11/27/23	Orange	6	33	yes	1) blood clots in fractionated blood tube 2) Mutiple enlarged Peyers patches ** (Refer to pictures)	34g	500ul	60	(mild hemolysis)	3 (20ul)	OGNSM-MUS-MLL-337	give 1 aliquot of 20ul	
+3F_1	3 month	Female	1	9	100	8/29/2023	338		9:3F_1	3	11/27/23	Red	1	23	yes	1) Blood clots in fractionated blood tube	22g	300ul	60		3 (20ul)	OGNSM-MUS-MLL-338	give 1 aliquot of 20ul	
+3F_2	3 month	Female	2	10	101	8/29/2023	339		10:3F_2	7	12/1/23	Blue	2	23	yes		23g	500uL	137	(some hemolysis)	3	OGNSM-MUS-MLL-339		
+3F_3	3 month	Female	3	11	102	8/29/2023	340		11:3F_3	5	11/29/23	Orange	3	19	yes	1) Blood clot in fractionated blood tube	19g	500uL	95	(moderate hemolysis)	3	OGNSM-MUS-MLL-340		
+3F_4	3 month	Female	4	12	103	8/29/2023	341		12:3F_4	6	11/30/23	Green	4	23	yes	1) Big clot in fractionated blood	23g	400uL	75		3	OGNSM-MUS-MLL-341		
+3F_5	3 month	Female	5	13	104	8/29/2023	342		13:3F_5	8	12/04/23	Red	5	22	yes		21g	0.5mL	200		3	OGNSM-MUS-MLL-342		
+3F_6	3 month	Female	6	14	105	8/29/2023	343		14:3F_6	1	11/20/23	Green	6	19	yes	1) Pituatary was cut in half	19g	0.6mL	170		3	OGNSM-MUS-MLL-343		
+3F_7	3 month	Female	7	15	106	8/29/2023	344		15:3F_7	2	11/21/23	Blue	1	19	yes		20g	500uL	150		3 (20ul)	OGNSM-MUS-MLL-344		
+3F_8	3 month	Female	8	16	107	8/29/2023	345		16:3F_8	4	11/28/23	Yellow	2	24	yes	1) Large gallbladder	23g	600ul	210		3 (20ul)	OGNSM-MUS-MLL-345		
+9M_1	9 month	Male	1	17	108	02/14/23	346		17:9M_1	6	11/30/23	Green	3	44	yes	1) Small clot in fractionated blood	41g	1mL	370		5	OGNSM-MUS-MLL-346		
+9M_2	9 month	Male	2	18	109	02/14/23	347		18:9M_2	2	11/21/23	Blue	4	39	yes	1) Fractionated blood had clots	39g	1.0mL	400		5 (20ul)	OGNSM-MUS-MLL-347		
+9M_3	9 month	Male	3	19	110	02/14/23	348		19:9M_3	4	11/28/23	Yellow	5	38	yes	1) Significatn pericardial fat 2) Difficult to get to thymus	38g	500uL	125		3 (20ul)	OGNSM-MUS-MLL-348		
+9M_4	9 month	Male	4	20	111	02/14/23	349		20:9M_4	8	12/04/23	Red	6	38	yes	1) Blood taken very easily	38g	1mL	390		5	OGNSM-MUS-MLL-349		
+9M_5	9 month	Male	5	21	112	02/14/23	350	4973	21:9M_5	7	12/1/23	Blue	1	40	yes	1) Difficult to shave 2) Pituitary cut in half	39g	0.9mL	350		5	OGNSM-MUS-MLL-350		
+9M_6	9 month	Male	6	22	113	02/14/23	351	4973	22:9M_6	3	11/27/23	Red	2	33	yes	1) Blood clots in fractioned blood tube 2) significant pericardial fat 3) Small thymus 4) BM with a small delay in processing~5 min (but was on ice the entire time)	38g	0.9ml	210		5 (20ul)	OGNSM-MUS-MLL-351		
+9M_7	9 month	Male	7	23	114	02/14/23	352	4973	23:9M_7	1	11/20/23	Green	3	42	yes	1) Difficult to get blood 2) Thymus was possibly frozen with heart in MOLD	41g		70	(+ slight hemolysis)	5	OGNSM-MUS-MLL-352	give 2 aliquots of 10ul	
+9M_8	9 month	Male	8	24	115	02/14/23	353	4973	24:9M_8	5	11/29/23	Orange	4	32	yes	1) Difficult to shaving mouse	35g	1.1mL	470		5	OGNSM-MUS-MLL-353		
+9F_1	9 month	Female	1	25	116	02/14/23	354		25:9F_1	8	12/04/23	Green	5	27	yes		28g	700uL	240		5	OGNSM-MUS-MLL-354		
+9F_2	9 month	Female	2	26	117	02/14/23	355		26:9F_2	4	11/28/23	Green	6	37	yes	1) L and R side of stomach orientation reversed in tray	33g	900uL	230		5 (20ul)	OGNSM-MUS-MLL-355		
+9F_3	9 month	Female	3	27	118	02/14/23	356		27:9F_3	6	11/30/23	Red	1	32	yes	1) Large clot in fractionated blood	34g	500uL	156		3	OGNSM-MUS-MLL-356		
+9F_4	9 month	Female	4	28	119	02/14/23	357		28:9F_4	2	11/21/23	Orange	2	39	yes	1) Abd cavity full of fat 2) Flat skin lid cracked 3) Tube 22( parietal cortex and 27 (spinal cord) were swapped	39g	1.0mL	300		5 (20ul)	OGNSM-MUS-MLL-357		
+9F_5	9 month	Female	5	29	120	02/14/23	358		29:9F_5	7	12/1/23	Orange	3	36	yes		32g	1mL	330		5	OGNSM-MUS-MLL-358		
+9F_6	9 month	Female	6	30	121	02/14/23	359		30:9F_6	5	11/29/23	Blue	4	33	yes	1) Mammary glands very easy to find	31g	900ul	350		5	OGNSM-MUS-MLL-359		
+9F_7	9 month	Female	7	31	122	02/14/23	360		31:9F_7	3	11/27/23	Green	5	46	yes	1) Difficult to find mammary gland	43g	500ul	100	(mild hemolysis)	3 (20ul)	OGNSM-MUS-MLL-360		
+9F_8	9 month	Female	8	32	123	02/14/23	361		32:9F_8	1	11/20/23	Red	6	31	yes		31g	0.7mL	220		3	OGNSM-MUS-MLL-361		
+18M_1	18 months	Male	1	33	124	05/17/22	362		33:18M_1	5	11/29/23	Yellow	1	42	yes	1) Brown tumor in abd subcutaneous fat 2) Brown tumor in peritoneal cavity ** (refer to picture) 3) Small thymus with significant peri-thymus fat	41g	600ul	200	(slight hemolysis)	3	OGNSM-MUS-MLL-362		
+18M_2	18 months	Male	2	34	125	05/17/22	363		34:18M_2	7	12/1/23	Yellow	2	40	yes	1) Leaner than expected of mouse of this age 2) Colon was in advertently cut transversely 3) Thymus almost non-exisitent 4) Pituitary gland appearsl abnornal- anterior and posterior pituitary are separated	36g	1mL	400	(slightly hemolyzed)	5	OGNSM-MUS-MLL-363		
+18M_3	18 months	Male	3	35	126	05/17/22	364		35:18M_3	1	11/20/23	Yellow	3	50	yes	1) Only able to find 1 adrenal gland	48g	1.0mL	360		5	OGNSM-MUS-MLL-364		
+18M_4	18 months	Male	4	36	127	05/17/22	365		36:18M_4	3	11/27/23	Yellow	4	45	yes	1) ?Brown Tumor in abdominal subcutaneous fat** (refer to pictures)	43g	1.5mL	400	(has a little bit of heparin gel)	5 (20ul)	OGNSM-MUS-MLL-365		
+18M_5	18 months	Male	5	37	128	05/17/22	366		37:18M_5	2	11/21/23	Yellow	5	46	yes	1) Thymus is very small 2) Only able to find one adrenal gland. Wounded.	45g	> 1.0mL	480		5 (20ul)	OGNSM-MUS-MLL-366		
+18M_6	18 months	Male	6	38	129	05/17/22	367		38:18M_6	6	11/30/23	Yellow	6	46	yes	1) Small delay in processing plasma/fractionated blood samples after spinning, but no blood clots 2) Mouse has generalized increased intramusclar fat	47g	0.8mL	250		5	OGNSM-MUS-MLL-367		
+18M_7	18 months	Male	7	39	130	05/17/22	368		39:18M_7	4	11/28/23	Blue	1	36	yes	1) + for urine colelction 2) colon split in half horizontally (transverse) 3) Thymus is questionable as difficult ot find 4) Brown tumor seen in abd subcutaneous fat. 5) Tray with yellow label (instead of blue) but this was corrected by HsinHwa	36g	1mL	350		5 (20ul)	OGNSM-MUS-MLL-368		
+18M_8	18 months	Male	8	40	131	05/17/22	369		40:18M_8	8	12/04/23	Yellow	2	37	yes	1) Lots of intramuscular fat- makes it hard to separate organs	37g	1mL	400		5	OGNSM-MUS-MLL-369		
+18F_1	18 months	Female	1	41	132	05/17/22	370		41:18F_1	1	11/20/23	Orange	3	43	yes	1) Mammary gland was difficult to find. due to obesity 2) Thymus is ~ 1/5 of a young one. 3) Adrenal is difficult to find	42g	1.0mL	240	(+ hemolysis)	5	OGNSM-MUS-MLL-370		
+18F_2	18 months	Female	2	42	133	05/17/22	371		42:18F_2	5	11/29/23	Red	4	41	yes	1) The lid of the heart tray fell off while in liquid nitrogen 2) Mammary gland was difficult to find but was found eventually 3) + Right ovarian cyst** Refer to picture 4) Right atrium's sinus venarum (where superior and inferior vena cava enter the rigth atrium)) was darker, likley due to blood that are still in both venae cavae ** (see picutre)	39g	500ul	110	(slight hemolysis)	3	OGNSM-MUS-MLL-371		
+18F_3	18 months	Female	3	43	134	05/17/22	372		43:18F_3	6	11/30/23	Orange	5	42	yes	1) Very enlarged ovarian tubes/uterus. Fluid as well as the organs were collected, labelled and snap frozen. ** (refer to picture) 2) Big thyroid	44g	0.8mL	250		5	OGNSM-MUS-MLL-372		
+18F_4	18 months	Female	4	44	135	05/17/22	373		44:18F_4	2	11/21/23	Red	6	38	yes	1) Thyroid was enlarged	36g	600ul	145		3 (20ul)	OGNSM-MUS-MLL-373		
+18F_5	18 months	Female	5	45	136	05/17/22	374		45:18F_5	3	11/27/23	Blue	1	46	yes	1) Liver is small compared to size of the animal 2) Cyst on the left lobe of the lung 3) There are skin lesions in the subdermal layer of the skull/face bilaterally** (refer to pictures)	44g	1ml	400		5 (20ul)	OGNSM-MUS-MLL-374		
+18F_6	18 months	Female	6	46	137	05/17/22	375		46:18F_6	4	11/28/23	Red	2	40	yes	1) Large thyroid 2) These parts of the brain are MISSING: parietal lobe, hippocampus, pituatary, cerebellum and majority of midbrain bilaterally as well as 1/2 of the skull	40g	900uL	230		5 (20ul)	OGNSM-MUS-MLL-375		
+18F_7	18 months	Female	7	47	138	05/17/22	376		47:18F_7	7	12/1/23	Red	3	37	yes	1) Has intestinal polys in Large intestine and possibly in small intestine	36g	600uL	200		3	OGNSM-MUS-MLL-376		
+18F_8	18 months	Female	8	48	139	05/17/22	377		48:18F_8	8	12/04/23	Blue	4	35	yes	1) UFO (unidentifying floating organ) under the spleen** (refer to picture UFO 1) 2) UFO next to fallopian tube ** (Refer to picture UFO 2) 3) Peyers patches in colon ** (refer to third picture below)	33g	800uL	350		5	OGNSM-MUS-MLL-377		

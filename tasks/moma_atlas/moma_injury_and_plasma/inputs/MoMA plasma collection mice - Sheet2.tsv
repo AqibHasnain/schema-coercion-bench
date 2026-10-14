@@ -1,0 +1,37 @@
+	Cage SID	01/08/23 feces	01/09/23 feces	01/12/23 feces				
+1	5490	CageSID:5490_Feces						
+2	5491	CageSID:5491_Feces						
+3	5492	CageSID:5492_Feces						
+4	5493	CageSID:5493_Feces						
+5	5500	CageSID:5500_Feces						
+6	5501	CageSID:5501_Feces						
+7	5494	CageSID:5494_Feces				5490	5502	5514
+8	5495	CageSID:5495_Feces				5491	5503	5515
+9	5496	CageSID:5496_Feces				5492	5504	5516
+10	5497	CageSID:5497_Feces				5493	5505	5517
+11	5498	CageSID:5498_Feces				5500	5510	5524
+12	5499	CageSID:5499_Feces				5501	5511	5525
+13	5502	CageSID:5502_Feces				5494	5506	5518
+14	5503	CageSID:5503_Feces				5495	5507	5519
+15	5504	CageSID:5504_Feces				5496	5508	5520
+16	5505	CageSID:5505_Feces				5497	5509	5521
+17	5510	CageSID:5510_Feces				5498	5512	5522
+18	5511	CageSID:5511_Feces				5499	5513	5523
+19	5506	CageSID:5506_Feces						
+20	5507	CageSID:5507_Feces						
+21	5508	CageSID:5508_Feces						
+22	5509	CageSID:5509_Feces						
+23	5512	CageSID:5512_Feces						
+24	5513	CageSID:5513_Feces						
+25	5514	CageSID:5514_Feces						
+26	5515	CageSID:5515_Feces						
+27	5516	CageSID:5516_Feces						
+28	5517	CageSID:5517_Feces						
+29	5524	CageSID:5524_Feces						
+30	5525	CageSID:5525_Feces						
+31	5518	CageSID:5518_Feces						
+32	5519	CageSID:5519_Feces						
+33	5520	CageSID:5520_Feces						
+34	5521	CageSID:5521_Feces						
+35	5522	CageSID:5522_Feces						
+36	5523	CageSID:5523_Feces						

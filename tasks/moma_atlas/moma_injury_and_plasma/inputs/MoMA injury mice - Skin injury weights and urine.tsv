@@ -1,0 +1,78 @@
+Name	 	Age	Sex	Model	Group	Mouse number	Eartag color	Mouse SID	DOB	Cage SID (02/14/24)	Cage SID (2)	Baseline blood taken (label = .3)	Injury start day	Collection day #	Collection date	Weight pre-injury	Weight on collection day (g)	Urine before injury? (date) (label = .1)	Feces collected before injury? (date) (label = .2)	Notes	Whole Blood Collected (ul)	Total plasma estimated (uL)	Hemolysis?	Number of aliquots of 20ul aliquots plasma collected	Benchling ID 
+	9M_51	9 months	Male	Skin injury	Control	238	yellow	798	06/20/23	5570		03/15/24				47		yes	no						OGNSM-MUS-MLL-798
+	9M_52	9 months	Male	Skin injury	Control	239	white	799	06/20/23	5570		03/15/24				47		yes	no						OGNSM-MUS-MLL-799
+	9M_53	9 months	Male	Skin injury	Control	240	yellow (lost)	879	07/11/23	5747		03/15/24				50		no	no						OGNSM-MUS-MLL-879
+	9M_54	9 months	Male	Skin injury	Control	241	white	880	07/11/23	5747		03/15/24				39		yes	yes						OGNSM-MUS-MLL-880
+	9M_55	9 months	Male	Skin injury	Experimental	242	orange	800	06/20/23	5570		03/15/24				50		no	yes						OGNSM-MUS-MLL-800
+	9M_56	9 months	Male	Skin injury	Experimental	243	blue	801	06/20/23	5570		03/15/24				42		yes	no						OGNSM-MUS-MLL-801
+	9M_57	9 months	Male	Skin injury	Experimental	244	orange	881	07/11/23	5747		03/15/24				54		no	yes						OGNSM-MUS-MLL-881
+	9M_58	9 months	Male	Skin injury	Experimental	245	blue	882	07/11/23	5747		03/15/24				47		yes	yes						OGNSM-MUS-MLL-882
+	9M_59	9 months	Male	Skin injury	Experimental	246	green	883	07/11/23	5747		03/15/24				50		yes	yes						OGNSM-MUS-MLL-883
+	9F_52	9 months	Female	Skin injury	Control	247	yellow	803	06/20/23	5571		03/15/24				32		yes	yes						OGNSM-MUS-MLL-803
+	9F_53	9 months	Female	Skin injury	Control	248	white	804	06/20/23	5571		03/15/24				33		some	no						OGNSM-MUS-MLL-804
+	9F_54	9 months	Female	Skin injury	Control	249	orange	591	06/06/2023	5484		03/15/24				42		some	no						OGNSM-MUS-MLL-591
+	9F_55	9 months	Female	Skin injury	Control	250	blue	592	06/06/2023	5484		03/15/24				33		yes	no						OGNSM-MUS-MLL-592
+Carolin	9F_56	9 months	Female	Skin injury	Experimental	251	orange	805	06/20/23	5571		03/15/24				29		yes	yes						OGNSM-MUS-MLL-805
+	9F_57	9 months	Female	Skin injury	Experimental	252	green	807	06/20/23	5571		03/15/24				29		yes	yes						OGNSM-MUS-MLL-807
+	9F_58	9 months	Female	Skin injury	Experimental	253	blue	806	06/20/23	5571		03/15/24				28		yes	yes						OGNSM-MUS-MLL-806
+	9F_59	9 months	Female	Skin injury	Experimental	254	orange	606	06/06/2023	5487		03/15/24				32		some	yes						OGNSM-MUS-MLL-606
+	9F_60	9 months	Female	Skin injury	Experimental	255	blue	607	06/06/2023	5487		03/15/24				35		some	no						OGNSM-MUS-MLL-607
+																									
+Weights 																									
+	Name	9M_51	9M_52	9M_53	9M_54	9M_55	9M_56	9M_57	9M_58	9M_59	9F_52	9F_53	9F_54	9F_55	9F_56	9F_57	9F_58	9F_59	9F_60						
+	Sex	Male	Male	Male	Male	Male	Male	Male	Male	Male	Female	Female	Female	Female	Female	Female	Female	Female	Female						
+	Group	Control	Control	Control	Control	Experimental	Experimental	Experimental	Experimental	Experimental	Control	Control	Control	Control	Experimental	Experimental	Experimental	Experimental	Experimental						
+	Number	238	239	240	241	242	243	244	245	246	247	248	249	250	251	252	253	254	255						
+pre injury		47	47	50	39	50	42	54	47	50	32	33	42	33	29	29	28	32	35						
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+Urine																									
+	Name	9M_51	9M_52	9M_53	9M_54	9M_55	9M_56	9M_57	9M_58	9M_59	9F_52	9F_53	9F_54	9F_55	9F_56	9F_57	9F_58	9F_59	9F_60						
+	Sex	Male	Male	Male	Male	Male	Male	Male	Male	Male	Female	Female	Female	Female	Female	Female	Female	Female	Female						
+	Group	Control	Control	Control	Control	Experimental	Experimental	Experimental	Experimental	Experimental	Control	Control	Control	Control	Experimental	Experimental	Experimental	Experimental	Experimental						
+	Number	238	239	240	241	242	243	244	245	246	247	248	249	250	251	252	253	254	255						
+pre injury		yes	yes	no	yes	no	yes	no	yes	yes	yes	some	some	yes	yes	yes	yes	some	some						
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+Feces																									
+	Name	9M_51	9M_52	9M_53	9M_54	9M_55	9M_56	9M_57	9M_58	9M_59	9F_52	9F_53	9F_54	9F_55	9F_56	9F_57	9F_58	9F_59	9F_60						
+	Sex	Male	Male	Male	Male	Male	Male	Male	Male	Male	Female	Female	Female	Female	Female	Female	Female	Female	Female						
+	Group	Control	Control	Control	Control	Experimental	Experimental	Experimental	Experimental	Experimental	Control	Control	Control	Control	Experimental	Experimental	Experimental	Experimental	Experimental						
+	Number	238	239	240	241	242	243	244	245	246	247	248	249	250	251	252	253	254	255						
+pre injury		no	no	no	yes	yes	no	yes	yes	yes	yes	no	no	no	yes	yes	yes	yes	no						
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+Notes																									
+	Name	9M_51	9M_52	9M_53	9M_54	9M_55	9M_56	9M_57	9M_58	9M_59	9F_52	9F_53	9F_54	9F_55	9F_56	9F_57	9F_58	9F_59	9F_60						
+	Sex	Male	Male	Male	Male	Male	Male	Male	Male	Male	Female	Female	Female	Female	Female	Female	Female	Female	Female						
+	Group	Control	Control	Control	Control	Experimental	Experimental	Experimental	Experimental	Experimental	Control	Control	Control	Control	Experimental	Experimental	Experimental	Experimental	Experimental						
+	Number	238	239	240	241	242	243	244	245	246	247	248	249	250	251	252	253	254	255						
+pre injury																									

@@ -79,6 +79,7 @@ suffix, and each task points at the version its reference output was written aga
 | `experiment` | 12 | 4 | Bacterial growth experiments, including multi-sheet workbooks that need a merge or join. |
 | `strain` | 1 | 1 | Bacterial strain records split across two files. |
 | `clinical` | 10 | 10 | Patient, Tumor, Treatment and Appointment records: multi-class extraction, cross-file joins, foreign keys, transposed tables and ambiguous values. |
+| `moma_atlas` | 1 | 0 | 23 mouse-cohort lab sheets (injury, plasma collection, organ lists) exported from a spreadsheet: merged headers, notes in data cells, one entity spread across many sheets. No target classes are fixed; `pydantic_english.py` defines Organism, Tissue, Organ, ProteomicsSample and request models. |
 
 Tasks without a reference output are still useful for checking that the output validates
 against the model.
@@ -101,4 +102,4 @@ The reference outputs are kept as they were written and have some quirks:
 - `benchmark/tumor_30attr_19cols_5attr_subset` uses a 6-field model against the full Tumor
   reference. Score only the model's fields.
 
-All data is synthetic. Names, emails and identifiers are fabricated.
+All data is toy data. Names and emails are fabricated.
